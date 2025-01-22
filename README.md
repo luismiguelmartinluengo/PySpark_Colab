@@ -1,2 +1,2 @@
-# Test_in_Colab
-Repositorio de pruebas de código en colab
+# PySpark
+Repositorio de notebooks y recursos relacionados con formación PySpark
