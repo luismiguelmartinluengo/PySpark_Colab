@@ -1,0 +1,1001 @@
+purchase_id,customer_id,purchase_amount,purchase_date,product_category,payment_method
+1,67,263.9,2023-09-12,Beauty,PayPal
+2,240,192.87,2023-11-05,Books,PayPal
+3,597,93.98,2024-09-28,Electronics,Bank Transfer
+4,517,170.66,2024-04-25,Toys,Credit Card
+5,832,73.61,2023-02-20,Books,Debit Card
+6,1000,96.61,2022-11-11,Electronics,Debit Card
+7,784,111.19,2023-09-23,Books,Bank Transfer
+8,786,350.89,2024-08-26,Fashion,Debit Card
+9,751,74.74,2023-05-24,Fashion,Gift Card
+10,362,308.16,2023-03-26,Fashion,Gift Card
+11,923,459.75,2023-06-11,Toys,Credit Card
+12,540,302.1,2023-03-16,Books,Gift Card
+13,317,16.19,2023-10-10,Fashion,Bank Transfer
+14,669,89.89,2023-06-10,Books,Gift Card
+15,560,163.83,2024-05-03,Electronics,PayPal
+16,141,306.11,2023-12-16,Beauty,Debit Card
+17,842,165.05,2024-08-01,Home & Kitchen,Gift Card
+18,967,39.0,2023-10-14,Electronics,PayPal
+19,744,376.07,2022-11-05,Fashion,PayPal
+20,884,226.19,2024-07-04,Beauty,Debit Card
+21,267,178.64,2023-06-26,Fashion,PayPal
+22,18,184.62,2024-04-07,Toys,Credit Card
+23,750,318.91,2023-12-31,Home & Kitchen,Credit Card
+24,503,317.64,2023-10-20,Electronics,Debit Card
+25,47,16.1,2023-07-05,Beauty,PayPal
+26,69,412.27,2023-04-16,Home & Kitchen,Gift Card
+27,140,447.29,2024-01-22,Fashion,Gift Card
+28,446,79.61,2024-08-30,Home & Kitchen,Debit Card
+29,665,171.12,2024-02-28,Beauty,Gift Card
+30,392,14.72,2023-05-26,Home & Kitchen,Bank Transfer
+31,545,404.25,2023-09-14,Beauty,Gift Card
+32,778,30.55,2023-12-22,Electronics,Gift Card
+33,977,201.25,2024-02-14,Electronics,Bank Transfer
+34,142,314.7,2024-03-28,Beauty,Bank Transfer
+35,861,368.89,2023-06-12,Fashion,Credit Card
+36,338,126.32,2023-11-21,Fashion,Debit Card
+37,969,20.77,2023-11-17,Fashion,Bank Transfer
+38,173,361.72,2024-05-04,Books,Bank Transfer
+39,107,314.05,2022-12-24,Books,Debit Card
+40,630,304.97,2022-12-15,Home & Kitchen,PayPal
+41,826,371.63,2023-12-14,Books,Credit Card
+42,641,466.89,2023-01-17,Electronics,Gift Card
+43,92,185.6,2024-02-01,Beauty,Debit Card
+44,470,125.71,2023-04-18,Home & Kitchen,Debit Card
+45,754,378.96,2023-12-24,Home & Kitchen,PayPal
+46,823,251.23,2024-04-23,Books,Credit Card
+47,319,269.87,2024-09-11,Home & Kitchen,Bank Transfer
+48,481,488.89,2023-10-05,Toys,Bank Transfer
+49,566,138.6,2023-05-03,Beauty,Credit Card
+50,467,203.58,2022-12-11,Electronics,Gift Card
+51,355,253.04,2022-12-01,Electronics,PayPal
+52,758,497.88,2023-02-20,Home & Kitchen,Bank Transfer
+53,720,390.2,2023-03-07,Home & Kitchen,Debit Card
+54,781,269.34,2024-07-12,Home & Kitchen,Gift Card
+55,855,486.21,2024-08-23,Fashion,Credit Card
+56,580,491.04,2024-07-28,Fashion,Bank Transfer
+57,691,362.84,2024-02-19,Beauty,PayPal
+58,167,459.02,2023-06-18,Fashion,PayPal
+59,867,376.22,2023-02-20,Electronics,Bank Transfer
+60,836,35.11,2023-03-21,Fashion,PayPal
+61,372,152.68,2024-07-05,Home & Kitchen,PayPal
+62,507,393.56,2023-12-06,Toys,Gift Card
+63,175,10.5,2024-08-14,Fashion,Bank Transfer
+64,45,226.53,2023-04-21,Home & Kitchen,Credit Card
+65,972,363.6,2024-07-09,Beauty,PayPal
+66,766,309.98,2023-07-27,Electronics,Bank Transfer
+67,959,217.7,2023-03-03,Fashion,Bank Transfer
+68,174,41.01,2023-11-13,Beauty,Debit Card
+69,594,63.93,2022-12-15,Toys,Bank Transfer
+70,620,198.5,2024-04-28,Books,PayPal
+71,319,149.63,2024-04-19,Books,PayPal
+72,969,136.51,2024-09-25,Toys,Bank Transfer
+73,326,495.14,2023-04-23,Fashion,Gift Card
+74,811,79.44,2023-10-02,Electronics,Bank Transfer
+75,160,394.48,2024-04-16,Beauty,Bank Transfer
+76,394,186.86,2024-08-29,Electronics,Bank Transfer
+77,935,211.7,2022-10-30,Toys,Debit Card
+78,922,17.69,2023-11-15,Toys,Debit Card
+79,697,105.31,2024-03-04,Home & Kitchen,Gift Card
+80,20,368.15,2024-08-23,Fashion,Bank Transfer
+81,914,128.62,2023-06-12,Fashion,Gift Card
+82,80,290.84,2023-02-15,Fashion,Gift Card
+83,885,259.36,2023-01-21,Beauty,Credit Card
+84,981,102.26,2024-03-18,Books,Credit Card
+85,951,219.11,2023-11-22,Books,PayPal
+86,259,224.24,2024-02-22,Home & Kitchen,Bank Transfer
+87,336,54.41,2023-09-22,Electronics,Gift Card
+88,12,383.64,2024-02-10,Fashion,Gift Card
+89,396,223.45,2023-03-09,Beauty,Gift Card
+90,714,441.27,2023-04-13,Electronics,Bank Transfer
+91,477,183.75,2024-03-25,Toys,Debit Card
+92,578,358.14,2023-08-21,Home & Kitchen,Credit Card
+93,408,242.13,2022-10-21,Toys,Debit Card
+94,43,49.93,2023-02-23,Home & Kitchen,PayPal
+95,5,43.99,2023-02-04,Beauty,Credit Card
+96,688,274.9,2023-04-17,Electronics,PayPal
+97,951,422.27,2022-12-30,Electronics,PayPal
+98,403,453.58,2022-10-17,Beauty,PayPal
+99,417,338.74,2023-12-06,Toys,Debit Card
+100,414,434.64,2023-05-08,Toys,Credit Card
+101,167,71.44,2023-07-24,Fashion,Gift Card
+102,723,324.53,2022-10-24,Beauty,Credit Card
+103,748,413.64,2024-06-03,Electronics,Bank Transfer
+104,708,374.63,2022-10-10,Beauty,Gift Card
+105,973,98.31,2022-10-30,Toys,Credit Card
+106,83,284.3,2023-02-26,Home & Kitchen,Debit Card
+107,820,137.87,2023-03-26,Beauty,PayPal
+108,802,137.03,2023-03-04,Books,Debit Card
+109,775,451.08,2022-11-20,Toys,Debit Card
+110,40,319.95,2024-02-11,Fashion,Bank Transfer
+111,35,449.03,2023-04-22,Home & Kitchen,Credit Card
+112,198,327.72,2023-10-28,Books,Bank Transfer
+113,245,408.01,2023-10-15,Toys,Debit Card
+114,727,173.5,2023-08-20,Beauty,Debit Card
+115,488,388.05,2022-10-19,Electronics,Bank Transfer
+116,85,412.09,2024-02-24,Home & Kitchen,Credit Card
+117,833,389.68,2023-11-06,Electronics,Gift Card
+118,623,182.64,2024-02-13,Books,PayPal
+119,854,195.25,2022-12-28,Home & Kitchen,Credit Card
+120,140,165.28,2024-04-10,Electronics,Debit Card
+121,752,71.3,2024-01-31,Home & Kitchen,Bank Transfer
+122,198,31.63,2023-07-08,Beauty,Credit Card
+123,716,162.51,2024-01-02,Books,Credit Card
+124,615,386.1,2023-04-15,Beauty,Debit Card
+125,367,460.02,2023-02-02,Electronics,Gift Card
+126,56,225.95,2024-01-26,Toys,Bank Transfer
+127,775,135.36,2023-04-04,Home & Kitchen,Bank Transfer
+128,870,403.85,2022-12-03,Books,Debit Card
+129,32,232.33,2022-11-21,Home & Kitchen,Debit Card
+130,973,199.95,2024-02-09,Home & Kitchen,Credit Card
+131,127,22.83,2023-09-16,Electronics,Debit Card
+132,414,311.85,2024-09-27,Beauty,Credit Card
+133,331,233.67,2023-07-18,Toys,Gift Card
+134,488,49.42,2022-11-06,Electronics,Bank Transfer
+135,883,206.95,2023-07-22,Home & Kitchen,Credit Card
+136,664,262.77,2024-02-21,Electronics,PayPal
+137,368,478.02,2023-02-04,Books,Credit Card
+138,158,455.44,2023-08-28,Beauty,PayPal
+139,983,28.03,2024-04-29,Books,PayPal
+140,161,472.76,2024-02-06,Beauty,Debit Card
+141,165,95.56,2023-02-01,Fashion,Debit Card
+142,966,440.66,2024-07-24,Toys,PayPal
+143,969,21.69,2023-03-10,Beauty,Gift Card
+144,46,120.95,2023-02-26,Beauty,PayPal
+145,337,93.31,2024-08-06,Fashion,PayPal
+146,232,90.17,2024-04-20,Books,Gift Card
+147,373,439.49,2023-10-12,Fashion,Gift Card
+148,579,387.67,2024-08-06,Fashion,Bank Transfer
+149,6,346.6,2023-11-18,Beauty,Debit Card
+150,153,19.56,2023-05-31,Home & Kitchen,Bank Transfer
+151,4,28.71,2024-02-26,Electronics,Bank Transfer
+152,627,82.37,2023-11-01,Fashion,Gift Card
+153,807,22.96,2023-10-26,Books,Bank Transfer
+154,936,346.35,2024-09-16,Beauty,Debit Card
+155,945,77.54,2022-10-17,Toys,Debit Card
+156,547,206.19,2023-10-24,Fashion,Gift Card
+157,580,332.75,2024-06-28,Electronics,Gift Card
+158,918,223.66,2023-11-16,Books,Gift Card
+159,231,459.01,2023-08-01,Fashion,Gift Card
+160,407,461.0,2023-12-12,Electronics,PayPal
+161,283,443.67,2023-05-20,Home & Kitchen,Bank Transfer
+162,23,305.98,2023-08-25,Books,Debit Card
+163,283,29.75,2023-03-05,Home & Kitchen,Gift Card
+164,988,316.79,2024-01-22,Toys,Credit Card
+165,148,359.6,2023-05-17,Electronics,Gift Card
+166,749,436.41,2024-10-02,Books,Gift Card
+167,947,61.36,2024-05-23,Books,Bank Transfer
+168,474,89.08,2024-01-12,Home & Kitchen,Gift Card
+169,421,87.91,2022-12-04,Home & Kitchen,Bank Transfer
+170,116,467.39,2024-08-13,Home & Kitchen,Debit Card
+171,644,185.23,2023-08-01,Books,Bank Transfer
+172,772,36.41,2023-05-26,Home & Kitchen,Debit Card
+173,741,296.0,2022-10-18,Home & Kitchen,Gift Card
+174,650,30.32,2024-07-08,Toys,Gift Card
+175,36,344.29,2024-02-09,Home & Kitchen,Gift Card
+176,746,112.01,2022-11-12,Fashion,Debit Card
+177,113,310.43,2022-12-23,Fashion,Credit Card
+178,441,292.58,2022-10-16,Books,Credit Card
+179,658,358.28,2022-12-17,Beauty,Credit Card
+180,797,218.46,2024-07-27,Beauty,Bank Transfer
+181,142,92.92,2023-01-26,Fashion,Debit Card
+182,234,24.56,2024-02-01,Fashion,Gift Card
+183,366,450.93,2022-10-21,Toys,PayPal
+184,734,398.68,2023-05-21,Beauty,Credit Card
+185,822,481.77,2023-02-17,Books,PayPal
+186,921,87.58,2022-11-10,Beauty,Bank Transfer
+187,992,172.58,2024-01-28,Beauty,Debit Card
+188,935,194.31,2023-03-26,Beauty,Bank Transfer
+189,313,124.92,2023-11-03,Books,PayPal
+190,400,474.87,2024-04-18,Toys,PayPal
+191,988,210.95,2023-01-23,Books,Credit Card
+192,700,486.88,2024-06-16,Fashion,Credit Card
+193,598,301.78,2023-09-23,Beauty,Bank Transfer
+194,110,351.45,2024-03-22,Beauty,Debit Card
+195,611,325.71,2024-08-15,Toys,Credit Card
+196,274,347.39,2022-11-17,Toys,Debit Card
+197,385,51.83,2024-06-17,Electronics,Credit Card
+198,119,447.28,2024-06-17,Beauty,Gift Card
+199,326,62.99,2023-07-15,Books,PayPal
+200,599,351.37,2024-07-05,Beauty,Gift Card
+201,832,390.11,2024-05-20,Fashion,Bank Transfer
+202,565,415.35,2023-05-28,Electronics,Bank Transfer
+203,943,444.11,2023-09-28,Electronics,Debit Card
+204,900,496.93,2023-04-14,Books,Bank Transfer
+205,677,111.96,2024-04-24,Beauty,Gift Card
+206,271,20.37,2023-11-07,Fashion,Gift Card
+207,176,443.74,2023-07-05,Toys,Credit Card
+208,939,193.77,2024-09-30,Electronics,Bank Transfer
+209,415,173.92,2024-08-28,Toys,Gift Card
+210,41,245.17,2023-07-31,Electronics,PayPal
+211,854,258.68,2024-01-27,Toys,Gift Card
+212,485,140.0,2023-06-14,Fashion,Bank Transfer
+213,374,88.17,2023-10-10,Toys,Debit Card
+214,468,43.73,2022-11-30,Electronics,Gift Card
+215,403,287.4,2024-02-13,Books,Bank Transfer
+216,95,140.11,2023-04-07,Fashion,Credit Card
+217,304,79.12,2023-12-17,Electronics,Debit Card
+218,675,433.39,2024-07-17,Beauty,Debit Card
+219,601,283.78,2022-12-01,Electronics,Credit Card
+220,883,208.13,2023-09-23,Beauty,Bank Transfer
+221,503,359.92,2022-11-04,Electronics,Gift Card
+222,573,180.17,2024-10-01,Home & Kitchen,Credit Card
+223,703,12.52,2023-03-01,Fashion,Gift Card
+224,859,492.28,2023-04-24,Home & Kitchen,Debit Card
+225,10,252.86,2024-04-13,Toys,PayPal
+226,94,47.98,2022-12-19,Toys,Gift Card
+227,232,372.09,2023-08-05,Books,Debit Card
+228,238,151.07,2024-02-10,Fashion,Gift Card
+229,676,441.43,2023-07-03,Home & Kitchen,PayPal
+230,394,310.08,2023-11-11,Electronics,Gift Card
+231,364,255.12,2023-08-14,Books,Debit Card
+232,672,357.56,2023-05-18,Beauty,PayPal
+233,443,145.93,2023-12-22,Books,PayPal
+234,888,61.59,2023-07-22,Home & Kitchen,Credit Card
+235,457,85.59,2022-12-24,Fashion,Debit Card
+236,952,478.38,2024-01-21,Books,Debit Card
+237,113,343.74,2023-12-13,Books,Gift Card
+238,526,236.27,2024-03-08,Toys,Bank Transfer
+239,226,341.06,2023-11-17,Toys,PayPal
+240,499,124.0,2024-09-08,Toys,Credit Card
+241,95,241.17,2023-12-22,Books,Debit Card
+242,841,484.12,2022-10-28,Electronics,Bank Transfer
+243,790,29.81,2024-02-04,Electronics,PayPal
+244,206,365.46,2024-09-23,Fashion,Credit Card
+245,186,400.63,2022-12-12,Home & Kitchen,Credit Card
+246,240,476.91,2024-03-11,Electronics,Gift Card
+247,548,12.21,2024-07-16,Electronics,Bank Transfer
+248,621,468.12,2024-07-11,Fashion,Credit Card
+249,759,238.38,2023-03-24,Electronics,Bank Transfer
+250,919,314.48,2024-02-15,Books,Credit Card
+251,550,96.8,2023-10-25,Fashion,Debit Card
+252,951,213.56,2022-10-09,Books,Credit Card
+253,447,112.95,2023-08-25,Electronics,Bank Transfer
+254,978,141.97,2024-01-17,Toys,PayPal
+255,721,190.06,2023-03-12,Home & Kitchen,Gift Card
+256,657,75.85,2023-03-31,Toys,Credit Card
+257,258,473.14,2024-02-06,Beauty,Credit Card
+258,280,21.82,2023-05-06,Fashion,Bank Transfer
+259,791,332.84,2023-07-08,Books,Debit Card
+260,587,488.18,2022-11-07,Home & Kitchen,Debit Card
+261,432,258.93,2023-06-14,Electronics,Bank Transfer
+262,109,349.63,2023-01-05,Books,Credit Card
+263,522,447.7,2022-10-26,Books,Debit Card
+264,466,278.41,2023-07-09,Fashion,Gift Card
+265,261,194.84,2024-03-13,Toys,Bank Transfer
+266,344,411.84,2023-02-10,Fashion,Gift Card
+267,255,182.01,2024-02-11,Books,Credit Card
+268,458,364.47,2023-11-07,Electronics,Bank Transfer
+269,415,479.7,2024-09-21,Books,Debit Card
+270,440,128.12,2023-03-19,Books,Gift Card
+271,145,121.85,2023-06-14,Home & Kitchen,PayPal
+272,669,248.23,2023-06-02,Fashion,Bank Transfer
+273,701,52.9,2022-10-28,Home & Kitchen,Bank Transfer
+274,647,339.85,2023-04-13,Electronics,Debit Card
+275,352,27.98,2023-11-13,Toys,Debit Card
+276,785,451.02,2023-04-13,Books,Debit Card
+277,422,253.09,2024-05-03,Fashion,Gift Card
+278,49,395.65,2024-09-27,Home & Kitchen,Bank Transfer
+279,193,364.72,2024-08-29,Fashion,Bank Transfer
+280,946,275.96,2024-03-07,Toys,Bank Transfer
+281,445,84.55,2024-01-23,Beauty,Bank Transfer
+282,506,450.44,2024-08-26,Toys,Debit Card
+283,613,226.28,2023-10-26,Fashion,Gift Card
+284,927,305.94,2022-12-30,Home & Kitchen,Bank Transfer
+285,749,106.23,2023-12-13,Electronics,Credit Card
+286,138,129.0,2023-09-30,Beauty,Bank Transfer
+287,230,333.81,2023-05-07,Electronics,Bank Transfer
+288,436,463.06,2024-04-27,Beauty,PayPal
+289,907,344.68,2024-02-01,Books,Debit Card
+290,168,192.59,2023-11-26,Home & Kitchen,Gift Card
+291,401,225.06,2024-02-20,Beauty,PayPal
+292,867,496.01,2023-06-14,Electronics,Debit Card
+293,226,379.54,2023-04-17,Fashion,Gift Card
+294,974,237.3,2024-08-02,Toys,Debit Card
+295,914,190.26,2023-12-15,Electronics,Credit Card
+296,416,111.59,2024-01-10,Books,Bank Transfer
+297,584,438.22,2023-04-12,Books,Bank Transfer
+298,216,320.36,2022-10-30,Beauty,Debit Card
+299,544,325.05,2024-09-09,Books,PayPal
+300,390,276.52,2023-09-25,Electronics,Credit Card
+301,620,485.32,2024-05-12,Books,Credit Card
+302,209,215.48,2024-06-04,Home & Kitchen,PayPal
+303,86,375.06,2023-06-18,Fashion,Bank Transfer
+304,992,434.12,2023-08-25,Toys,Bank Transfer
+305,377,85.16,2023-09-29,Home & Kitchen,Credit Card
+306,608,229.1,2023-02-09,Fashion,Gift Card
+307,394,375.53,2024-09-21,Home & Kitchen,Debit Card
+308,844,299.21,2023-10-15,Electronics,Credit Card
+309,159,164.61,2024-06-05,Toys,Bank Transfer
+310,497,41.02,2023-12-06,Toys,Gift Card
+311,446,166.52,2022-12-24,Beauty,Credit Card
+312,120,222.78,2023-04-08,Beauty,Debit Card
+313,780,79.45,2023-06-21,Electronics,Credit Card
+314,723,220.59,2024-02-07,Electronics,PayPal
+315,271,198.31,2024-08-09,Home & Kitchen,PayPal
+316,383,311.93,2023-11-10,Beauty,Debit Card
+317,763,414.0,2023-06-19,Toys,Credit Card
+318,347,262.54,2023-07-20,Electronics,Debit Card
+319,930,252.77,2024-04-13,Electronics,PayPal
+320,340,77.46,2024-07-27,Electronics,Bank Transfer
+321,575,214.65,2024-01-06,Electronics,PayPal
+322,585,61.05,2024-08-21,Electronics,Bank Transfer
+323,132,247.78,2023-08-27,Toys,Debit Card
+324,356,57.44,2024-06-06,Beauty,Debit Card
+325,182,349.91,2023-06-23,Fashion,Gift Card
+326,207,308.3,2024-04-01,Beauty,Gift Card
+327,357,87.4,2024-09-26,Beauty,PayPal
+328,998,499.95,2023-12-01,Fashion,Debit Card
+329,477,415.83,2023-11-26,Fashion,PayPal
+330,575,335.58,2022-11-25,Electronics,Credit Card
+331,677,411.47,2023-11-18,Home & Kitchen,PayPal
+332,36,51.44,2023-11-25,Electronics,PayPal
+333,823,66.18,2023-05-24,Beauty,PayPal
+334,207,261.23,2023-01-18,Home & Kitchen,Gift Card
+335,92,213.16,2024-07-22,Toys,Gift Card
+336,126,49.38,2023-07-15,Books,PayPal
+337,179,155.32,2024-04-17,Beauty,Gift Card
+338,690,352.38,2023-04-04,Electronics,Credit Card
+339,856,14.03,2024-05-09,Home & Kitchen,Credit Card
+340,892,488.16,2023-10-23,Home & Kitchen,PayPal
+341,561,330.21,2024-02-08,Home & Kitchen,Credit Card
+342,803,357.15,2023-01-19,Beauty,Bank Transfer
+343,144,137.19,2024-02-21,Electronics,Gift Card
+344,429,147.63,2024-07-30,Fashion,PayPal
+345,974,163.25,2023-05-09,Toys,Gift Card
+346,911,229.92,2022-12-08,Electronics,Gift Card
+347,384,93.07,2023-01-24,Electronics,Debit Card
+348,724,405.89,2024-08-01,Books,Credit Card
+349,245,49.74,2023-06-14,Electronics,Debit Card
+350,926,73.05,2022-12-15,Books,Credit Card
+351,915,379.41,2023-05-06,Toys,Gift Card
+352,128,268.39,2024-06-10,Books,PayPal
+353,275,208.07,2023-11-26,Books,Credit Card
+354,169,357.49,2022-11-05,Toys,PayPal
+355,208,132.12,2022-10-15,Fashion,PayPal
+356,808,81.2,2023-09-29,Toys,PayPal
+357,558,23.35,2022-12-01,Fashion,Gift Card
+358,948,442.93,2024-06-14,Fashion,Debit Card
+359,777,284.39,2022-11-17,Toys,Debit Card
+360,763,131.5,2023-07-04,Home & Kitchen,Credit Card
+361,740,235.83,2024-02-11,Fashion,Credit Card
+362,422,92.23,2023-12-01,Toys,Gift Card
+363,218,198.56,2022-11-01,Toys,Gift Card
+364,106,72.12,2024-06-12,Electronics,Bank Transfer
+365,12,450.57,2024-06-15,Electronics,Credit Card
+366,985,375.97,2024-06-24,Fashion,Gift Card
+367,462,340.31,2024-06-06,Books,PayPal
+368,678,204.18,2023-08-20,Beauty,Credit Card
+369,914,383.41,2024-04-04,Toys,Debit Card
+370,759,112.85,2023-11-27,Electronics,Credit Card
+371,524,406.46,2023-11-16,Beauty,Gift Card
+372,255,230.8,2023-04-29,Beauty,Debit Card
+373,615,317.17,2022-10-27,Toys,PayPal
+374,14,303.2,2023-10-05,Home & Kitchen,PayPal
+375,376,416.55,2023-03-31,Home & Kitchen,Bank Transfer
+376,658,347.26,2024-03-19,Fashion,Credit Card
+377,491,405.39,2022-12-07,Fashion,Bank Transfer
+378,407,176.29,2024-08-08,Home & Kitchen,Gift Card
+379,143,242.97,2024-02-05,Home & Kitchen,PayPal
+380,358,428.05,2023-11-20,Toys,Gift Card
+381,406,293.59,2024-03-02,Beauty,Bank Transfer
+382,306,340.55,2022-10-16,Toys,Debit Card
+383,194,221.35,2023-03-02,Home & Kitchen,Bank Transfer
+384,172,259.73,2023-06-22,Toys,Bank Transfer
+385,775,451.03,2024-09-29,Toys,Gift Card
+386,940,177.44,2023-07-21,Books,PayPal
+387,468,454.12,2024-05-05,Toys,Credit Card
+388,809,367.46,2023-02-06,Home & Kitchen,Gift Card
+389,708,43.7,2024-04-07,Fashion,Bank Transfer
+390,106,429.28,2023-11-16,Electronics,Debit Card
+391,963,449.0,2023-01-24,Toys,Debit Card
+392,929,483.22,2024-05-04,Home & Kitchen,Bank Transfer
+393,832,141.16,2024-02-19,Beauty,Credit Card
+394,22,307.71,2024-09-11,Fashion,PayPal
+395,986,412.82,2023-07-27,Books,Gift Card
+396,757,188.01,2024-07-01,Home & Kitchen,Credit Card
+397,597,221.65,2022-10-31,Electronics,Credit Card
+398,787,94.37,2023-09-17,Toys,Bank Transfer
+399,280,182.87,2023-01-03,Fashion,Gift Card
+400,202,166.44,2024-09-19,Fashion,Gift Card
+401,674,84.06,2023-12-19,Toys,Bank Transfer
+402,418,297.53,2023-09-24,Fashion,Credit Card
+403,56,223.71,2024-01-12,Toys,Credit Card
+404,662,327.35,2023-06-13,Fashion,Bank Transfer
+405,88,215.47,2024-09-01,Home & Kitchen,Bank Transfer
+406,194,360.07,2022-11-19,Home & Kitchen,Debit Card
+407,324,489.71,2023-02-13,Beauty,PayPal
+408,498,488.77,2024-04-16,Toys,PayPal
+409,277,448.95,2023-05-11,Electronics,Gift Card
+410,824,379.78,2023-02-12,Electronics,Bank Transfer
+411,266,283.87,2023-11-14,Books,Bank Transfer
+412,459,216.43,2023-02-27,Fashion,Bank Transfer
+413,946,215.39,2023-04-12,Fashion,Credit Card
+414,599,388.94,2024-01-27,Fashion,Gift Card
+415,302,346.36,2023-08-14,Electronics,Gift Card
+416,269,145.3,2023-01-25,Electronics,PayPal
+417,522,414.36,2023-03-07,Electronics,Credit Card
+418,42,307.84,2023-06-27,Fashion,Credit Card
+419,418,198.68,2024-09-15,Books,Credit Card
+420,321,319.64,2024-01-20,Fashion,Credit Card
+421,720,202.1,2023-09-30,Toys,Debit Card
+422,50,112.53,2024-07-19,Electronics,Credit Card
+423,614,393.19,2024-09-04,Fashion,Bank Transfer
+424,749,354.64,2022-11-08,Books,Gift Card
+425,914,489.11,2023-02-11,Toys,Credit Card
+426,761,420.05,2023-07-20,Toys,Debit Card
+427,575,471.3,2023-08-19,Fashion,Debit Card
+428,603,478.22,2022-12-29,Electronics,Bank Transfer
+429,481,151.03,2024-03-05,Home & Kitchen,Debit Card
+430,413,345.48,2023-01-08,Beauty,Credit Card
+431,537,389.19,2023-12-28,Electronics,Credit Card
+432,655,149.48,2023-08-25,Fashion,Bank Transfer
+433,138,469.77,2023-07-17,Electronics,PayPal
+434,7,372.77,2023-10-02,Home & Kitchen,Debit Card
+435,339,293.4,2024-08-17,Electronics,Credit Card
+436,382,111.48,2023-12-04,Books,PayPal
+437,699,247.74,2024-01-10,Toys,Bank Transfer
+438,87,49.63,2023-06-14,Books,Gift Card
+439,796,207.62,2022-12-20,Books,Bank Transfer
+440,437,264.14,2023-07-08,Fashion,Debit Card
+441,660,205.81,2024-02-15,Toys,PayPal
+442,152,440.86,2022-10-28,Fashion,Debit Card
+443,36,198.18,2024-06-01,Toys,Credit Card
+444,681,43.38,2023-09-23,Home & Kitchen,Bank Transfer
+445,310,182.59,2024-07-15,Beauty,Gift Card
+446,412,299.82,2023-07-17,Home & Kitchen,Bank Transfer
+447,478,261.08,2023-05-21,Fashion,Bank Transfer
+448,39,365.35,2024-02-15,Home & Kitchen,PayPal
+449,812,261.04,2023-10-29,Fashion,Bank Transfer
+450,79,242.89,2023-01-17,Home & Kitchen,Gift Card
+451,785,313.31,2024-07-13,Toys,Credit Card
+452,532,258.83,2023-05-13,Electronics,Bank Transfer
+453,368,29.48,2024-03-08,Home & Kitchen,Debit Card
+454,350,141.94,2023-01-04,Books,Gift Card
+455,2,407.47,2023-08-20,Fashion,Gift Card
+456,761,365.38,2022-12-24,Home & Kitchen,Debit Card
+457,945,31.41,2024-04-16,Beauty,Gift Card
+458,539,332.66,2023-11-05,Fashion,Gift Card
+459,713,151.01,2022-12-13,Toys,Gift Card
+460,219,457.69,2023-12-26,Beauty,Gift Card
+461,639,303.89,2024-07-17,Beauty,Debit Card
+462,627,226.42,2023-02-17,Toys,PayPal
+463,441,288.26,2022-12-27,Beauty,Debit Card
+464,525,220.47,2024-03-20,Fashion,PayPal
+465,391,154.66,2024-04-02,Fashion,PayPal
+466,986,128.48,2024-08-14,Toys,PayPal
+467,965,233.21,2024-03-25,Toys,PayPal
+468,639,320.24,2024-05-27,Home & Kitchen,Debit Card
+469,148,423.6,2023-03-06,Home & Kitchen,Bank Transfer
+470,178,272.9,2023-02-21,Beauty,Bank Transfer
+471,118,447.9,2024-02-07,Books,Gift Card
+472,210,349.0,2023-04-15,Toys,PayPal
+473,620,132.05,2024-01-06,Electronics,Bank Transfer
+474,509,453.32,2023-08-16,Home & Kitchen,Gift Card
+475,280,260.76,2023-05-25,Home & Kitchen,Gift Card
+476,323,368.13,2024-09-29,Electronics,Debit Card
+477,980,106.53,2023-05-30,Fashion,Bank Transfer
+478,470,49.66,2024-04-16,Toys,PayPal
+479,706,248.36,2022-10-06,Home & Kitchen,Gift Card
+480,56,433.07,2023-09-22,Electronics,Credit Card
+481,343,491.76,2022-11-20,Home & Kitchen,Bank Transfer
+482,738,283.8,2023-03-06,Home & Kitchen,Bank Transfer
+483,921,213.29,2023-09-23,Books,PayPal
+484,226,473.56,2023-09-28,Electronics,Credit Card
+485,998,397.29,2022-10-27,Electronics,Bank Transfer
+486,18,428.71,2022-12-12,Toys,Bank Transfer
+487,339,478.29,2023-01-18,Toys,Credit Card
+488,923,286.12,2024-08-03,Electronics,Credit Card
+489,808,56.78,2023-10-27,Beauty,PayPal
+490,94,409.73,2023-07-17,Books,Debit Card
+491,791,447.12,2023-12-21,Toys,Bank Transfer
+492,982,433.57,2023-08-22,Fashion,PayPal
+493,303,87.79,2024-07-09,Fashion,Bank Transfer
+494,975,120.75,2023-05-10,Fashion,Debit Card
+495,265,253.04,2023-02-04,Home & Kitchen,Debit Card
+496,753,311.94,2024-01-19,Fashion,Credit Card
+497,140,450.12,2023-10-30,Beauty,Gift Card
+498,998,476.61,2022-11-15,Fashion,Bank Transfer
+499,18,182.21,2024-05-27,Beauty,Gift Card
+500,695,71.84,2023-06-05,Beauty,PayPal
+501,84,450.23,2023-06-10,Beauty,Bank Transfer
+502,873,348.72,2023-05-28,Home & Kitchen,Bank Transfer
+503,755,118.08,2024-09-23,Fashion,Debit Card
+504,759,292.97,2023-02-01,Electronics,Gift Card
+505,131,81.28,2024-05-17,Toys,Credit Card
+506,516,166.19,2023-05-18,Fashion,Debit Card
+507,468,165.14,2024-05-30,Books,Debit Card
+508,964,328.09,2023-02-09,Beauty,PayPal
+509,692,356.67,2024-03-13,Electronics,PayPal
+510,502,143.36,2023-12-02,Toys,Bank Transfer
+511,993,148.53,2024-04-04,Home & Kitchen,Bank Transfer
+512,402,42.08,2023-06-29,Books,Credit Card
+513,978,299.1,2024-04-28,Beauty,Credit Card
+514,530,427.74,2024-02-15,Beauty,Gift Card
+515,148,217.05,2024-05-05,Beauty,Bank Transfer
+516,200,383.07,2023-02-02,Fashion,Credit Card
+517,272,225.84,2023-03-29,Home & Kitchen,Gift Card
+518,525,35.12,2024-02-18,Books,Gift Card
+519,563,71.67,2023-10-19,Beauty,Bank Transfer
+520,583,84.45,2022-10-27,Electronics,PayPal
+521,632,227.4,2023-09-18,Toys,Gift Card
+522,216,239.67,2023-02-11,Books,Credit Card
+523,100,272.3,2024-04-17,Electronics,Bank Transfer
+524,690,238.62,2023-04-18,Beauty,Debit Card
+525,34,108.74,2024-05-25,Fashion,Credit Card
+526,613,195.21,2023-08-12,Electronics,Bank Transfer
+527,218,267.56,2022-10-27,Fashion,Gift Card
+528,94,103.82,2023-12-18,Electronics,Bank Transfer
+529,134,305.86,2023-11-07,Toys,Bank Transfer
+530,533,323.13,2024-03-26,Books,Bank Transfer
+531,405,433.72,2023-08-17,Home & Kitchen,Gift Card
+532,656,318.85,2022-11-30,Electronics,PayPal
+533,354,490.34,2023-02-12,Fashion,Credit Card
+534,999,106.82,2024-03-08,Fashion,Bank Transfer
+535,699,113.9,2023-08-04,Electronics,Debit Card
+536,243,232.33,2022-12-14,Electronics,Bank Transfer
+537,283,419.61,2024-09-21,Home & Kitchen,Gift Card
+538,337,371.63,2022-12-31,Beauty,PayPal
+539,899,338.72,2024-07-26,Toys,Credit Card
+540,847,253.21,2023-03-06,Toys,Bank Transfer
+541,670,53.3,2024-02-23,Fashion,Gift Card
+542,944,440.97,2023-08-22,Electronics,Gift Card
+543,290,80.55,2023-04-25,Beauty,PayPal
+544,757,341.81,2023-01-24,Electronics,Bank Transfer
+545,330,166.9,2024-03-17,Beauty,Credit Card
+546,369,452.8,2023-05-07,Fashion,Debit Card
+547,303,265.51,2024-04-07,Books,Gift Card
+548,405,27.38,2024-09-08,Books,Credit Card
+549,295,318.43,2024-05-05,Fashion,Bank Transfer
+550,193,416.75,2024-04-22,Books,PayPal
+551,160,296.85,2024-07-25,Toys,Gift Card
+552,272,373.12,2024-04-27,Electronics,Debit Card
+553,143,226.31,2024-08-26,Toys,Gift Card
+554,960,97.94,2024-09-13,Electronics,PayPal
+555,769,240.4,2023-10-27,Electronics,PayPal
+556,663,464.1,2024-09-19,Electronics,Gift Card
+557,252,265.01,2024-08-09,Electronics,Bank Transfer
+558,89,238.17,2024-04-30,Home & Kitchen,Bank Transfer
+559,264,354.33,2024-04-15,Books,Debit Card
+560,244,316.4,2024-07-14,Beauty,Bank Transfer
+561,971,366.6,2023-02-19,Toys,Debit Card
+562,978,253.37,2023-08-09,Beauty,Debit Card
+563,14,120.97,2023-03-10,Beauty,Bank Transfer
+564,692,385.79,2024-06-22,Fashion,Debit Card
+565,869,383.97,2023-05-20,Toys,Bank Transfer
+566,182,43.28,2023-08-09,Home & Kitchen,Credit Card
+567,277,315.25,2024-08-23,Toys,PayPal
+568,593,215.73,2024-02-10,Electronics,Credit Card
+569,145,415.48,2024-08-26,Books,Credit Card
+570,356,173.1,2023-10-30,Beauty,Gift Card
+571,400,453.73,2024-06-05,Home & Kitchen,Debit Card
+572,218,390.31,2023-03-06,Toys,Debit Card
+573,254,437.58,2022-10-24,Fashion,Gift Card
+574,328,487.3,2024-06-28,Electronics,PayPal
+575,431,293.34,2022-11-23,Toys,Debit Card
+576,728,172.63,2023-09-30,Toys,Bank Transfer
+577,398,462.76,2023-07-14,Home & Kitchen,Credit Card
+578,456,328.03,2023-03-16,Home & Kitchen,Debit Card
+579,821,327.17,2023-08-08,Home & Kitchen,Credit Card
+580,377,81.03,2023-09-07,Electronics,Gift Card
+581,990,325.23,2024-07-21,Electronics,PayPal
+582,523,314.78,2022-10-28,Books,Gift Card
+583,626,423.05,2022-12-14,Beauty,Bank Transfer
+584,200,88.56,2023-07-20,Electronics,PayPal
+585,110,421.49,2023-11-25,Beauty,PayPal
+586,203,247.55,2023-03-10,Books,PayPal
+587,528,208.04,2023-10-31,Toys,Gift Card
+588,275,475.74,2023-03-19,Fashion,Credit Card
+589,213,176.06,2023-07-20,Beauty,Credit Card
+590,674,25.29,2023-10-01,Home & Kitchen,PayPal
+591,637,363.08,2023-03-26,Fashion,PayPal
+592,421,391.89,2023-10-21,Fashion,Credit Card
+593,256,185.17,2024-08-08,Beauty,Gift Card
+594,453,95.15,2022-11-29,Home & Kitchen,Gift Card
+595,870,223.82,2023-03-01,Home & Kitchen,Bank Transfer
+596,109,493.36,2023-07-21,Toys,Gift Card
+597,135,57.07,2024-02-06,Toys,Gift Card
+598,671,245.2,2023-07-15,Books,Credit Card
+599,432,38.07,2023-07-30,Home & Kitchen,Bank Transfer
+600,175,157.67,2023-09-09,Toys,Credit Card
+601,572,337.71,2023-04-09,Home & Kitchen,Credit Card
+602,993,80.78,2023-11-09,Electronics,PayPal
+603,772,175.49,2024-05-13,Fashion,Debit Card
+604,384,441.95,2023-01-28,Toys,Gift Card
+605,268,277.47,2023-11-07,Books,Gift Card
+606,16,60.59,2022-12-19,Electronics,PayPal
+607,743,111.79,2024-08-09,Toys,Credit Card
+608,514,391.31,2024-03-12,Electronics,Credit Card
+609,558,312.09,2024-09-19,Beauty,Credit Card
+610,252,461.32,2023-07-30,Electronics,Debit Card
+611,456,91.13,2023-09-02,Books,PayPal
+612,926,416.44,2023-06-03,Fashion,Gift Card
+613,722,417.56,2024-01-22,Electronics,Bank Transfer
+614,388,18.0,2023-07-06,Electronics,Credit Card
+615,318,50.6,2023-09-12,Books,Debit Card
+616,263,364.41,2023-11-02,Fashion,Gift Card
+617,661,301.35,2023-12-07,Toys,PayPal
+618,192,218.48,2023-03-31,Electronics,Bank Transfer
+619,432,485.54,2024-09-16,Toys,Debit Card
+620,291,179.94,2023-05-02,Home & Kitchen,Gift Card
+621,644,427.93,2024-03-06,Beauty,Gift Card
+622,902,374.83,2023-07-14,Home & Kitchen,PayPal
+623,280,389.95,2023-07-15,Fashion,Debit Card
+624,922,236.51,2023-03-13,Beauty,Credit Card
+625,382,242.39,2024-06-25,Beauty,PayPal
+626,692,131.13,2022-12-04,Electronics,Gift Card
+627,747,263.6,2023-07-07,Fashion,Debit Card
+628,836,200.45,2024-01-28,Beauty,Bank Transfer
+629,340,280.34,2023-01-11,Electronics,Gift Card
+630,424,447.11,2022-11-29,Books,PayPal
+631,13,106.72,2023-04-21,Fashion,Credit Card
+632,503,496.09,2023-03-09,Beauty,Credit Card
+633,737,264.32,2022-12-24,Beauty,Bank Transfer
+634,415,310.58,2022-11-13,Fashion,Credit Card
+635,439,21.18,2023-08-26,Books,PayPal
+636,757,458.18,2023-11-15,Fashion,Bank Transfer
+637,303,417.57,2023-07-03,Books,Gift Card
+638,721,261.78,2024-07-29,Home & Kitchen,Credit Card
+639,40,52.18,2024-04-14,Books,Gift Card
+640,391,392.98,2024-01-16,Beauty,Debit Card
+641,290,247.51,2023-08-27,Books,Bank Transfer
+642,1,317.67,2023-02-15,Beauty,PayPal
+643,690,247.71,2023-11-11,Books,Gift Card
+644,940,484.66,2023-02-09,Beauty,Bank Transfer
+645,740,304.33,2023-05-01,Books,Bank Transfer
+646,379,158.99,2024-05-28,Toys,Debit Card
+647,355,28.26,2022-10-21,Books,Gift Card
+648,318,42.25,2023-04-10,Fashion,PayPal
+649,237,194.6,2023-10-31,Toys,PayPal
+650,160,99.69,2023-10-09,Books,Credit Card
+651,795,58.8,2022-10-12,Toys,Credit Card
+652,235,328.0,2023-08-14,Fashion,Credit Card
+653,670,264.89,2022-12-10,Beauty,Gift Card
+654,692,221.44,2023-12-10,Home & Kitchen,Gift Card
+655,451,162.64,2023-04-05,Toys,Credit Card
+656,164,244.63,2023-03-23,Electronics,Credit Card
+657,485,409.24,2024-08-01,Home & Kitchen,PayPal
+658,310,201.68,2024-04-24,Toys,PayPal
+659,340,382.45,2023-08-01,Electronics,Credit Card
+660,784,328.91,2024-04-29,Home & Kitchen,Debit Card
+661,953,467.27,2024-04-23,Beauty,PayPal
+662,562,464.47,2023-09-28,Books,Credit Card
+663,435,29.82,2023-04-13,Electronics,PayPal
+664,8,154.35,2023-02-12,Electronics,Credit Card
+665,34,316.12,2024-07-22,Fashion,Bank Transfer
+666,889,92.93,2023-07-07,Beauty,Credit Card
+667,600,78.23,2023-01-31,Beauty,Bank Transfer
+668,139,399.84,2023-01-21,Electronics,Credit Card
+669,623,390.79,2023-06-19,Electronics,Debit Card
+670,841,59.06,2023-02-14,Books,Gift Card
+671,83,66.41,2023-07-29,Beauty,Gift Card
+672,514,366.29,2024-04-08,Fashion,Bank Transfer
+673,105,77.72,2023-12-06,Home & Kitchen,Gift Card
+674,524,73.7,2023-06-28,Beauty,Bank Transfer
+675,982,27.2,2023-07-02,Toys,Debit Card
+676,97,367.3,2024-06-02,Books,PayPal
+677,542,458.3,2023-06-04,Toys,Bank Transfer
+678,560,202.27,2023-08-07,Home & Kitchen,Debit Card
+679,580,349.79,2023-02-03,Fashion,Bank Transfer
+680,415,426.41,2023-09-10,Home & Kitchen,PayPal
+681,965,182.92,2023-08-02,Home & Kitchen,Credit Card
+682,9,10.61,2023-01-10,Home & Kitchen,Debit Card
+683,669,452.58,2024-03-23,Fashion,Credit Card
+684,849,249.88,2024-08-18,Books,Debit Card
+685,283,483.25,2024-05-07,Fashion,Credit Card
+686,177,459.57,2023-09-24,Home & Kitchen,PayPal
+687,205,492.82,2023-06-22,Electronics,Bank Transfer
+688,813,252.54,2024-02-04,Beauty,PayPal
+689,329,102.86,2023-02-25,Electronics,Bank Transfer
+690,687,348.29,2024-01-08,Home & Kitchen,Gift Card
+691,788,60.54,2024-08-11,Home & Kitchen,Gift Card
+692,571,184.89,2022-11-09,Beauty,PayPal
+693,238,203.1,2024-05-26,Books,Bank Transfer
+694,277,391.4,2022-11-02,Fashion,PayPal
+695,48,374.82,2023-09-17,Home & Kitchen,Credit Card
+696,343,327.79,2023-04-24,Electronics,PayPal
+697,233,331.27,2023-04-04,Beauty,Debit Card
+698,260,190.96,2024-09-02,Toys,Credit Card
+699,176,253.74,2023-01-07,Toys,Bank Transfer
+700,608,46.24,2022-10-11,Home & Kitchen,Credit Card
+701,265,12.54,2024-01-12,Toys,Debit Card
+702,338,94.27,2023-10-07,Books,Debit Card
+703,598,278.83,2024-07-07,Fashion,Credit Card
+704,659,276.12,2024-09-22,Fashion,Gift Card
+705,897,277.9,2023-10-24,Books,Bank Transfer
+706,634,481.25,2023-03-30,Home & Kitchen,PayPal
+707,120,387.98,2023-04-08,Electronics,Gift Card
+708,373,101.16,2024-01-26,Fashion,Gift Card
+709,783,303.94,2023-01-13,Beauty,Debit Card
+710,630,376.7,2024-03-28,Books,Gift Card
+711,166,85.39,2023-12-20,Books,Gift Card
+712,456,415.37,2024-03-02,Beauty,Debit Card
+713,259,40.95,2023-03-01,Fashion,Bank Transfer
+714,3,157.4,2024-03-02,Beauty,Debit Card
+715,102,498.08,2023-05-12,Home & Kitchen,Debit Card
+716,408,135.74,2024-04-06,Beauty,Gift Card
+717,329,273.85,2024-04-15,Books,Gift Card
+718,476,68.78,2024-03-30,Toys,PayPal
+719,264,133.7,2023-12-11,Home & Kitchen,Gift Card
+720,623,261.79,2022-11-11,Books,Bank Transfer
+721,971,256.04,2023-08-01,Books,PayPal
+722,749,331.5,2024-09-21,Books,Credit Card
+723,989,20.56,2022-11-12,Toys,Credit Card
+724,975,401.18,2024-04-15,Beauty,Credit Card
+725,31,251.48,2024-08-21,Books,Bank Transfer
+726,359,279.16,2023-12-06,Toys,Gift Card
+727,570,374.6,2024-02-21,Beauty,Gift Card
+728,593,100.66,2023-11-16,Toys,Credit Card
+729,622,184.32,2024-02-13,Home & Kitchen,Gift Card
+730,69,117.41,2024-07-02,Fashion,Bank Transfer
+731,465,318.15,2024-08-22,Books,PayPal
+732,867,225.71,2023-09-22,Beauty,Debit Card
+733,501,393.42,2024-05-24,Home & Kitchen,Gift Card
+734,350,357.63,2024-08-03,Beauty,Debit Card
+735,794,32.01,2024-08-08,Toys,PayPal
+736,404,408.44,2024-03-28,Beauty,Bank Transfer
+737,99,160.29,2024-09-01,Fashion,Bank Transfer
+738,144,81.25,2023-08-19,Home & Kitchen,Debit Card
+739,46,23.22,2023-04-04,Books,Credit Card
+740,588,266.54,2024-04-10,Fashion,Gift Card
+741,577,76.34,2022-12-10,Home & Kitchen,Credit Card
+742,310,184.81,2024-06-13,Fashion,Gift Card
+743,935,191.6,2024-07-15,Home & Kitchen,Credit Card
+744,903,59.33,2024-04-23,Beauty,Credit Card
+745,314,332.11,2023-06-29,Toys,PayPal
+746,185,387.56,2024-01-23,Beauty,Gift Card
+747,415,208.25,2023-06-09,Fashion,Credit Card
+748,428,428.85,2023-04-15,Books,Gift Card
+749,686,251.47,2024-01-15,Books,Debit Card
+750,440,406.79,2023-03-02,Books,Debit Card
+751,275,45.14,2023-12-05,Fashion,Gift Card
+752,330,187.81,2024-07-12,Books,PayPal
+753,252,89.51,2023-09-25,Fashion,PayPal
+754,823,117.36,2022-12-07,Fashion,Credit Card
+755,550,297.27,2024-09-23,Books,PayPal
+756,179,52.87,2022-12-24,Home & Kitchen,Debit Card
+757,279,468.19,2022-11-15,Beauty,Credit Card
+758,116,195.63,2023-02-11,Home & Kitchen,PayPal
+759,342,429.43,2023-12-10,Electronics,Debit Card
+760,675,328.3,2023-12-05,Beauty,Debit Card
+761,174,425.47,2023-06-09,Fashion,Gift Card
+762,982,127.96,2023-11-13,Beauty,Bank Transfer
+763,917,137.21,2023-10-13,Beauty,Credit Card
+764,53,195.64,2023-09-02,Electronics,Gift Card
+765,475,247.47,2024-07-29,Fashion,Debit Card
+766,60,461.47,2024-05-10,Fashion,Credit Card
+767,855,207.99,2023-09-27,Electronics,PayPal
+768,84,292.59,2024-04-08,Electronics,Debit Card
+769,874,376.34,2024-03-02,Home & Kitchen,Gift Card
+770,924,94.33,2023-01-22,Books,PayPal
+771,783,175.48,2022-11-26,Fashion,Gift Card
+772,268,447.48,2023-05-25,Fashion,Debit Card
+773,845,364.95,2024-07-15,Fashion,Bank Transfer
+774,837,451.72,2024-04-18,Home & Kitchen,Gift Card
+775,890,451.53,2024-07-09,Electronics,PayPal
+776,529,217.92,2024-01-30,Home & Kitchen,Gift Card
+777,829,37.57,2023-05-07,Home & Kitchen,Debit Card
+778,512,120.83,2024-04-13,Fashion,Credit Card
+779,129,458.75,2023-09-10,Books,Gift Card
+780,102,186.75,2023-01-29,Fashion,Credit Card
+781,331,75.65,2023-12-03,Fashion,Bank Transfer
+782,561,164.09,2024-07-11,Books,PayPal
+783,604,487.35,2023-01-17,Books,Bank Transfer
+784,679,440.19,2024-01-15,Home & Kitchen,Credit Card
+785,638,345.34,2024-01-11,Fashion,PayPal
+786,201,255.24,2024-08-14,Beauty,Credit Card
+787,320,225.46,2023-06-24,Electronics,Credit Card
+788,467,269.78,2024-03-09,Toys,Bank Transfer
+789,628,285.77,2023-05-13,Beauty,Gift Card
+790,892,215.72,2023-12-07,Toys,PayPal
+791,233,499.27,2023-08-01,Books,Debit Card
+792,533,363.75,2023-10-31,Electronics,Gift Card
+793,826,78.5,2023-10-09,Electronics,Bank Transfer
+794,871,19.18,2023-06-07,Fashion,Credit Card
+795,57,167.36,2024-09-26,Home & Kitchen,Debit Card
+796,785,40.73,2024-05-17,Electronics,Debit Card
+797,750,96.9,2024-07-12,Home & Kitchen,Gift Card
+798,666,476.25,2023-09-16,Toys,PayPal
+799,918,215.18,2024-05-29,Books,Credit Card
+800,611,371.05,2023-11-28,Toys,Credit Card
+801,908,228.5,2023-12-26,Electronics,Gift Card
+802,158,389.97,2024-05-29,Electronics,Bank Transfer
+803,652,73.36,2024-09-13,Home & Kitchen,PayPal
+804,905,154.48,2023-09-18,Books,PayPal
+805,537,212.54,2024-06-29,Home & Kitchen,PayPal
+806,529,436.35,2023-02-15,Books,Bank Transfer
+807,341,206.66,2023-09-15,Home & Kitchen,Gift Card
+808,917,380.3,2023-08-23,Beauty,Credit Card
+809,220,421.96,2024-01-03,Beauty,Gift Card
+810,771,156.4,2024-07-07,Books,Debit Card
+811,942,483.98,2022-12-27,Books,Debit Card
+812,974,496.54,2023-08-16,Toys,Debit Card
+813,80,436.0,2024-01-31,Home & Kitchen,Bank Transfer
+814,862,258.06,2023-01-19,Toys,Debit Card
+815,678,247.63,2024-06-26,Books,Debit Card
+816,445,484.62,2024-01-18,Electronics,Credit Card
+817,529,28.73,2024-05-09,Beauty,Credit Card
+818,809,375.74,2024-02-08,Electronics,Bank Transfer
+819,141,82.1,2022-10-21,Fashion,PayPal
+820,375,58.94,2023-03-05,Books,Gift Card
+821,129,174.47,2024-02-16,Toys,Debit Card
+822,622,119.65,2023-03-12,Toys,Bank Transfer
+823,455,305.49,2023-01-22,Electronics,Debit Card
+824,429,421.51,2023-04-13,Electronics,Debit Card
+825,964,361.46,2024-06-26,Fashion,PayPal
+826,283,398.31,2024-03-14,Home & Kitchen,Debit Card
+827,457,493.67,2024-03-15,Home & Kitchen,Bank Transfer
+828,103,379.75,2024-02-10,Books,Credit Card
+829,64,102.42,2023-12-09,Books,Debit Card
+830,822,172.14,2024-05-14,Books,Bank Transfer
+831,127,170.82,2023-09-25,Books,Bank Transfer
+832,506,155.5,2023-11-07,Books,Credit Card
+833,354,172.47,2023-07-19,Electronics,Bank Transfer
+834,283,472.48,2023-02-23,Electronics,Bank Transfer
+835,641,88.25,2024-05-22,Fashion,Bank Transfer
+836,581,175.5,2023-03-29,Beauty,Gift Card
+837,865,436.28,2024-01-08,Electronics,Gift Card
+838,839,487.91,2024-05-16,Books,PayPal
+839,30,208.19,2023-08-17,Electronics,Gift Card
+840,831,64.53,2024-03-13,Home & Kitchen,PayPal
+841,305,307.34,2023-07-29,Books,Gift Card
+842,8,308.42,2023-06-11,Fashion,Gift Card
+843,827,23.06,2023-02-27,Fashion,Bank Transfer
+844,827,407.7,2024-09-06,Electronics,Gift Card
+845,886,380.87,2023-11-03,Books,Bank Transfer
+846,658,391.53,2023-08-16,Books,PayPal
+847,136,349.02,2024-01-12,Toys,PayPal
+848,606,92.58,2022-12-16,Electronics,Credit Card
+849,249,65.06,2023-03-03,Books,Debit Card
+850,29,398.78,2024-07-29,Books,PayPal
+851,271,183.97,2023-07-16,Home & Kitchen,Gift Card
+852,931,264.4,2023-04-18,Electronics,PayPal
+853,895,228.43,2023-12-25,Fashion,Gift Card
+854,16,265.65,2024-02-13,Toys,Gift Card
+855,731,402.02,2023-11-30,Home & Kitchen,Debit Card
+856,978,485.71,2024-05-23,Home & Kitchen,PayPal
+857,821,89.74,2023-07-28,Beauty,PayPal
+858,205,406.35,2024-04-10,Electronics,PayPal
+859,754,195.21,2022-10-06,Home & Kitchen,PayPal
+860,728,499.34,2023-03-11,Fashion,Gift Card
+861,29,336.86,2022-11-10,Electronics,Debit Card
+862,949,201.26,2023-10-08,Electronics,Credit Card
+863,693,289.03,2023-06-23,Toys,Credit Card
+864,222,168.77,2023-05-31,Books,Bank Transfer
+865,734,307.82,2023-06-30,Electronics,Debit Card
+866,830,449.11,2024-08-18,Toys,Bank Transfer
+867,623,33.69,2024-02-02,Books,PayPal
+868,219,272.94,2024-08-17,Books,Credit Card
+869,18,327.91,2023-01-29,Toys,Debit Card
+870,176,251.36,2023-09-04,Beauty,Debit Card
+871,534,152.54,2023-05-03,Beauty,Bank Transfer
+872,90,83.67,2023-08-18,Toys,Credit Card
+873,905,493.73,2023-12-05,Home & Kitchen,PayPal
+874,916,277.81,2023-02-08,Fashion,Bank Transfer
+875,312,15.97,2023-02-22,Books,PayPal
+876,73,171.07,2024-08-22,Home & Kitchen,PayPal
+877,841,59.22,2024-09-27,Toys,Debit Card
+878,361,28.79,2023-08-17,Electronics,Bank Transfer
+879,931,410.98,2024-09-25,Electronics,Gift Card
+880,240,412.22,2024-01-24,Toys,Gift Card
+881,301,408.24,2024-03-09,Fashion,Bank Transfer
+882,466,273.58,2022-11-15,Beauty,Credit Card
+883,685,31.43,2023-09-30,Electronics,Debit Card
+884,403,198.0,2024-03-14,Fashion,Debit Card
+885,667,278.52,2023-03-30,Electronics,Credit Card
+886,404,208.64,2024-08-14,Home & Kitchen,Debit Card
+887,863,196.34,2024-03-18,Beauty,PayPal
+888,646,215.78,2023-06-01,Fashion,Bank Transfer
+889,832,184.57,2024-05-15,Fashion,Credit Card
+890,426,251.3,2024-01-28,Beauty,Credit Card
+891,858,415.82,2024-07-23,Home & Kitchen,Gift Card
+892,746,100.18,2024-03-07,Fashion,Debit Card
+893,37,108.01,2023-05-24,Home & Kitchen,PayPal
+894,338,369.12,2023-01-12,Fashion,Debit Card
+895,591,363.08,2023-03-12,Home & Kitchen,Credit Card
+896,968,197.47,2024-07-05,Electronics,Bank Transfer
+897,999,398.4,2022-12-28,Books,Debit Card
+898,812,196.2,2023-08-09,Fashion,Gift Card
+899,781,199.7,2023-03-08,Toys,Gift Card
+900,905,315.24,2022-11-28,Home & Kitchen,Credit Card
+901,659,312.25,2024-05-26,Fashion,Debit Card
+902,526,205.79,2024-09-20,Fashion,Bank Transfer
+903,747,48.34,2023-08-29,Electronics,Debit Card
+904,901,90.96,2024-02-08,Electronics,PayPal
+905,117,74.29,2024-08-22,Beauty,Bank Transfer
+906,634,396.82,2023-05-09,Toys,Gift Card
+907,263,16.47,2024-04-28,Home & Kitchen,Debit Card
+908,46,262.39,2024-08-21,Beauty,Gift Card
+909,684,310.43,2023-03-23,Books,Credit Card
+910,770,132.1,2023-05-23,Home & Kitchen,Debit Card
+911,346,336.41,2023-11-28,Beauty,PayPal
+912,504,191.84,2024-07-17,Home & Kitchen,Credit Card
+913,272,351.59,2024-01-21,Home & Kitchen,PayPal
+914,200,459.16,2023-11-05,Fashion,Debit Card
+915,851,107.64,2023-07-27,Beauty,Gift Card
+916,125,272.12,2023-02-23,Home & Kitchen,Debit Card
+917,994,481.08,2022-10-16,Books,Credit Card
+918,899,271.45,2023-10-04,Electronics,Bank Transfer
+919,445,345.61,2023-10-28,Home & Kitchen,Debit Card
+920,524,157.3,2023-12-22,Electronics,Credit Card
+921,513,487.95,2023-08-27,Beauty,Bank Transfer
+922,362,97.94,2022-12-12,Electronics,PayPal
+923,750,424.99,2023-09-18,Beauty,PayPal
+924,179,248.16,2023-02-06,Home & Kitchen,Debit Card
+925,963,459.06,2024-03-11,Toys,Bank Transfer
+926,707,127.87,2023-11-25,Books,Debit Card
+927,367,218.97,2023-11-07,Home & Kitchen,Credit Card
+928,811,493.39,2023-01-21,Books,PayPal
+929,519,73.54,2023-09-08,Books,Gift Card
+930,787,246.24,2023-08-16,Toys,PayPal
+931,496,79.07,2024-06-06,Electronics,Gift Card
+932,707,401.99,2022-10-09,Books,Bank Transfer
+933,182,43.39,2023-11-26,Electronics,Gift Card
+934,237,153.02,2024-03-08,Electronics,Gift Card
+935,965,317.2,2024-03-09,Toys,PayPal
+936,555,455.67,2024-07-29,Toys,Credit Card
+937,414,493.23,2022-10-11,Books,Bank Transfer
+938,377,121.39,2024-06-30,Fashion,Debit Card
+939,670,329.38,2023-05-14,Electronics,Bank Transfer
+940,620,81.25,2023-06-21,Home & Kitchen,Gift Card
+941,524,130.64,2023-06-06,Fashion,Bank Transfer
+942,614,441.21,2024-02-25,Home & Kitchen,Debit Card
+943,780,332.57,2024-04-30,Electronics,PayPal
+944,154,60.4,2023-06-06,Home & Kitchen,Bank Transfer
+945,913,131.46,2024-05-13,Beauty,Bank Transfer
+946,994,462.52,2022-12-14,Beauty,Gift Card
+947,536,311.46,2024-08-22,Books,PayPal
+948,344,441.84,2024-09-21,Electronics,Debit Card
+949,43,320.61,2023-04-13,Books,PayPal
+950,525,358.22,2023-04-23,Fashion,Bank Transfer
+951,926,176.74,2024-08-05,Beauty,Credit Card
+952,823,416.16,2023-07-02,Fashion,Credit Card
+953,688,57.46,2023-04-20,Beauty,PayPal
+954,782,174.04,2023-02-04,Books,Credit Card
+955,352,368.97,2023-02-12,Beauty,Debit Card
+956,836,182.9,2024-08-04,Home & Kitchen,PayPal
+957,932,474.48,2024-02-12,Books,Debit Card
+958,18,202.96,2023-12-31,Beauty,Bank Transfer
+959,552,161.02,2023-03-29,Toys,Credit Card
+960,559,428.76,2023-01-24,Electronics,PayPal
+961,25,222.7,2024-08-18,Electronics,Debit Card
+962,52,331.64,2024-07-06,Toys,PayPal
+963,987,106.53,2024-07-21,Beauty,PayPal
+964,249,498.16,2024-05-27,Electronics,Debit Card
+965,684,222.14,2023-05-17,Beauty,PayPal
+966,22,41.83,2024-02-11,Home & Kitchen,Gift Card
+967,219,88.61,2024-03-07,Books,Credit Card
+968,162,433.98,2023-10-27,Fashion,Bank Transfer
+969,697,456.24,2023-08-18,Electronics,PayPal
+970,787,36.61,2023-09-16,Fashion,Debit Card
+971,509,135.13,2023-01-30,Toys,PayPal
+972,755,330.78,2022-11-12,Home & Kitchen,Gift Card
+973,949,312.19,2024-04-04,Electronics,Debit Card
+974,134,373.12,2023-07-18,Fashion,Credit Card
+975,144,61.72,2024-07-31,Toys,Bank Transfer
+976,94,299.09,2022-11-10,Beauty,Bank Transfer
+977,445,232.05,2023-06-20,Books,Gift Card
+978,15,370.64,2022-12-20,Beauty,Bank Transfer
+979,641,442.18,2023-03-11,Home & Kitchen,Bank Transfer
+980,216,72.1,2024-01-26,Home & Kitchen,Bank Transfer
+981,301,339.67,2024-05-15,Toys,Bank Transfer
+982,776,34.64,2024-07-17,Toys,Bank Transfer
+983,254,463.57,2024-07-18,Home & Kitchen,Bank Transfer
+984,679,160.7,2022-10-26,Electronics,PayPal
+985,588,355.29,2023-02-02,Home & Kitchen,Bank Transfer
+986,274,231.58,2023-05-24,Electronics,Bank Transfer
+987,836,162.41,2024-05-28,Beauty,Credit Card
+988,734,223.5,2024-03-27,Home & Kitchen,Credit Card
+989,829,63.13,2022-11-18,Beauty,PayPal
+990,853,298.54,2023-04-14,Toys,Debit Card
+991,585,339.84,2023-11-10,Electronics,Credit Card
+992,19,161.96,2024-01-13,Books,Credit Card
+993,530,336.31,2022-10-08,Electronics,Gift Card
+994,759,125.89,2024-03-13,Toys,PayPal
+995,804,461.69,2023-01-08,Fashion,Gift Card
+996,618,228.96,2024-02-20,Books,PayPal
+997,339,17.3,2022-11-20,Toys,Bank Transfer
+998,964,304.47,2023-02-03,Home & Kitchen,Credit Card
+999,350,349.8,2024-06-10,Fashion,Gift Card
+1000,468,138.51,2022-10-11,Home & Kitchen,PayPal

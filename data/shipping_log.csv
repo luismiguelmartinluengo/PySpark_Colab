@@ -1,0 +1,1001 @@
+ShipmentID,Origin,Destination,ShipmentDate,DeliveryDate,Status,Cost
+1,Miami,Boston,2023-04-13,2023-04-15,In Transit,147.92
+2,Miami,San Francisco,2023-04-15,2023-04-17,Delivered,149.56
+3,Houston,San Francisco,2023-05-18,2023-05-19,In Transit,191.56
+4,Houston,Houston,2023-07-26,2023-07-31,Delivered,121.13
+5,Los Angeles,Dallas,2023-12-07,2023-12-09,In Transit,163.55
+6,Chicago,Dallas,2023-03-05,2023-03-09,In Transit,155.67
+7,New York,Houston,2023-08-28,2023-09-02,Delayed,222.68
+8,Houston,Houston,2023-09-22,2023-09-24,In Transit,258.9
+9,Los Angeles,Chicago,2023-08-30,2023-09-01,Delivered,166.45
+10,Chicago,Houston,2023-08-26,2023-09-01,In Transit,296.93
+11,Houston,Boston,2023-07-06,2023-07-11,In Transit,271.69
+12,Houston,Chicago,2023-10-30,2023-11-04,Delivered,198.43
+13,New York,Chicago,2023-04-20,2023-04-22,In Transit,279.13
+14,Miami,Dallas,2023-06-01,2023-06-02,Delayed,224.32
+15,Miami,Boston,2023-07-19,2023-07-20,In Transit,234.59
+16,Los Angeles,Dallas,2023-10-20,2023-10-26,In Transit,263.93
+17,Chicago,Boston,2023-10-17,2023-10-22,In Transit,297.22
+18,Los Angeles,Houston,2023-07-19,2023-07-26,In Transit,214.26
+19,Los Angeles,Chicago,2023-02-07,2023-02-11,Delayed,111.59
+20,Houston,Houston,2023-07-30,2023-08-01,Delivered,295.18
+21,Los Angeles,San Francisco,2023-04-14,2023-04-16,Delivered,196.83
+22,Miami,Boston,2023-01-18,2023-01-21,In Transit,199.64
+23,Houston,Houston,2023-02-04,2023-02-11,Delivered,151.64
+24,Miami,Dallas,2023-06-23,2023-06-28,In Transit,137.72
+25,Los Angeles,San Francisco,2023-04-04,2023-04-06,Delayed,184.22
+26,Los Angeles,San Francisco,2023-05-28,2023-05-30,In Transit,209.32
+27,Miami,San Francisco,2023-05-27,2023-05-29,Delayed,260.18
+28,Miami,Boston,2023-02-01,2023-02-06,Delayed,213.36
+29,Houston,Chicago,2023-04-13,2023-04-14,In Transit,147.11
+30,New York,Chicago,2023-03-14,2023-03-17,Delivered,267.9
+31,Chicago,San Francisco,2023-09-19,2023-09-26,Delivered,299.8
+32,Chicago,Chicago,2023-09-26,2023-09-28,In Transit,106.25
+33,New York,Chicago,2023-02-28,2023-03-05,In Transit,108.61
+34,New York,Chicago,2023-06-04,2023-06-05,Delayed,171.38
+35,New York,Boston,2023-02-16,2023-02-19,In Transit,179.65
+36,New York,Dallas,2023-06-17,2023-06-24,Delivered,276.37
+37,New York,Chicago,2023-06-06,2023-06-10,In Transit,112.44
+38,New York,San Francisco,2023-01-20,2023-01-24,In Transit,295.8
+39,Houston,Dallas,2023-07-13,2023-07-15,Delayed,205.31
+40,Chicago,Houston,2023-12-29,2024-01-04,In Transit,161.79
+41,Houston,Chicago,2023-04-22,2023-04-29,Delayed,232.17
+42,Chicago,Houston,2023-10-26,2023-10-28,Delayed,115.48
+43,Los Angeles,Dallas,2023-01-29,2023-02-04,Delayed,183.48
+44,Chicago,San Francisco,2023-01-29,2023-01-31,Delayed,245.99
+45,New York,Chicago,2023-05-09,2023-05-13,Delivered,121.42
+46,Houston,Chicago,2023-11-19,2023-11-22,Delayed,271.25
+47,Houston,Dallas,2023-12-14,2023-12-19,Delayed,100.3
+48,Houston,Dallas,2023-08-12,2023-08-19,In Transit,223.95
+49,Houston,San Francisco,2023-12-16,2023-12-18,Delivered,183.12
+50,Los Angeles,Houston,2023-05-17,2023-05-23,Delayed,109.4
+51,New York,Dallas,2023-12-17,2023-12-24,In Transit,297.67
+52,Chicago,Chicago,2023-09-25,2023-09-28,In Transit,174.6
+53,New York,Houston,2023-05-09,2023-05-14,Delayed,202.54
+54,Houston,San Francisco,2023-02-26,2023-02-27,In Transit,147.9
+55,Los Angeles,San Francisco,2023-09-13,2023-09-15,Delivered,142.15
+56,Los Angeles,Chicago,2023-07-31,2023-08-02,Delivered,145.75
+57,New York,Boston,2023-01-23,2023-01-24,In Transit,237.25
+58,Miami,Houston,2023-07-06,2023-07-11,Delivered,222.64
+59,Houston,Chicago,2023-09-09,2023-09-11,Delivered,223.85
+60,Houston,Boston,2023-05-31,2023-06-03,Delivered,243.59
+61,Los Angeles,Houston,2023-08-26,2023-08-30,In Transit,217.09
+62,Houston,San Francisco,2023-12-19,2023-12-25,Delivered,294.34
+63,Houston,Chicago,2023-09-03,2023-09-04,Delivered,174.44
+64,Miami,Chicago,2023-01-27,2023-02-03,Delivered,225.0
+65,Miami,Houston,2023-10-09,2023-10-14,Delivered,289.47
+66,Miami,Chicago,2023-11-26,2023-12-03,Delayed,253.61
+67,Houston,Chicago,2023-10-23,2023-10-27,Delivered,282.14
+68,Houston,San Francisco,2023-06-29,2023-06-30,Delayed,243.25
+69,New York,Boston,2023-08-28,2023-09-03,Delivered,116.81
+70,Houston,Chicago,2023-10-15,2023-10-21,Delivered,292.38
+71,Chicago,Chicago,2023-05-02,2023-05-09,Delayed,129.58
+72,New York,Chicago,2023-11-02,2023-11-03,In Transit,156.46
+73,Houston,San Francisco,2023-06-12,2023-06-18,Delayed,278.96
+74,Miami,Chicago,2023-03-14,2023-03-17,Delivered,273.55
+75,Los Angeles,Houston,2023-08-18,2023-08-23,Delivered,250.9
+76,New York,San Francisco,2023-08-13,2023-08-17,In Transit,160.56
+77,Houston,Houston,2023-08-27,2023-08-28,Delayed,104.27
+78,Los Angeles,Dallas,2023-08-12,2023-08-19,Delayed,164.91
+79,Houston,Dallas,2023-05-05,2023-05-12,Delivered,183.8
+80,New York,Boston,2023-11-15,2023-11-16,Delayed,166.95
+81,Chicago,Boston,2023-06-27,2023-06-29,Delayed,133.98
+82,Miami,Chicago,2023-06-12,2023-06-18,In Transit,164.55
+83,Chicago,San Francisco,2023-07-31,2023-08-03,In Transit,258.79
+84,Houston,San Francisco,2023-11-29,2023-12-04,In Transit,196.9
+85,Miami,Chicago,2023-04-18,2023-04-19,Delayed,298.72
+86,Houston,Dallas,2023-01-01,2023-01-03,In Transit,257.37
+87,Miami,Boston,2023-04-10,2023-04-17,Delivered,130.13
+88,Houston,San Francisco,2023-03-15,2023-03-21,Delivered,139.57
+89,Houston,San Francisco,2023-04-09,2023-04-12,In Transit,278.1
+90,Miami,Dallas,2023-02-09,2023-02-10,In Transit,184.49
+91,Los Angeles,Boston,2023-12-04,2023-12-07,Delayed,171.65
+92,Los Angeles,Dallas,2023-04-05,2023-04-07,Delayed,126.15
+93,Houston,San Francisco,2023-03-23,2023-03-24,In Transit,124.35
+94,Houston,San Francisco,2023-12-26,2023-12-30,Delivered,214.28
+95,Chicago,San Francisco,2023-09-22,2023-09-27,Delayed,242.69
+96,Miami,San Francisco,2023-12-23,2023-12-25,In Transit,115.35
+97,Los Angeles,Houston,2023-12-12,2023-12-16,In Transit,261.98
+98,Chicago,Chicago,2023-06-02,2023-06-08,In Transit,244.29
+99,Miami,San Francisco,2023-02-21,2023-02-23,Delayed,166.27
+100,New York,Boston,2023-05-24,2023-05-28,Delivered,246.81
+101,Chicago,Houston,2023-02-10,2023-02-11,Delivered,241.56
+102,Miami,Boston,2023-02-19,2023-02-24,Delivered,196.6
+103,Chicago,Boston,2023-10-25,2023-10-31,Delayed,156.61
+104,Chicago,Dallas,2023-02-12,2023-02-14,Delayed,134.01
+105,New York,San Francisco,2023-10-18,2023-10-19,Delayed,223.77
+106,Houston,Dallas,2023-11-26,2023-11-28,In Transit,279.72
+107,New York,Houston,2023-05-22,2023-05-23,Delayed,282.21
+108,New York,San Francisco,2023-10-07,2023-10-13,Delayed,130.32
+109,New York,Chicago,2023-06-14,2023-06-18,In Transit,102.59
+110,New York,Dallas,2023-04-23,2023-04-25,Delayed,137.78
+111,New York,Dallas,2023-10-16,2023-10-22,Delivered,268.14
+112,New York,San Francisco,2023-03-19,2023-03-23,Delivered,208.65
+113,Houston,San Francisco,2023-11-01,2023-11-05,Delayed,279.45
+114,Houston,Houston,2023-07-16,2023-07-22,In Transit,139.65
+115,Houston,Dallas,2023-01-12,2023-01-19,In Transit,108.13
+116,Miami,Houston,2023-09-19,2023-09-23,In Transit,217.02
+117,New York,Boston,2023-09-29,2023-10-02,Delayed,224.53
+118,Los Angeles,Dallas,2023-04-28,2023-05-02,In Transit,213.85
+119,Houston,Dallas,2023-10-04,2023-10-05,In Transit,295.3
+120,Chicago,Boston,2023-08-07,2023-08-08,Delayed,265.73
+121,Miami,Houston,2023-02-24,2023-03-03,Delivered,255.58
+122,Chicago,Chicago,2023-10-07,2023-10-12,Delayed,216.86
+123,Chicago,Houston,2023-01-18,2023-01-20,Delayed,237.62
+124,Los Angeles,Chicago,2023-01-21,2023-01-27,In Transit,161.36
+125,New York,Dallas,2023-08-22,2023-08-27,In Transit,113.39
+126,Chicago,Houston,2023-11-08,2023-11-13,Delivered,180.55
+127,Los Angeles,Boston,2023-12-07,2023-12-09,Delayed,208.88
+128,Chicago,San Francisco,2023-03-14,2023-03-21,Delayed,206.69
+129,Chicago,Houston,2023-07-29,2023-08-05,In Transit,287.44
+130,Miami,San Francisco,2023-09-22,2023-09-28,In Transit,161.32
+131,Miami,Dallas,2023-06-02,2023-06-09,Delivered,183.56
+132,Miami,Boston,2023-04-03,2023-04-09,In Transit,168.21
+133,Miami,Chicago,2023-12-09,2023-12-11,Delayed,243.83
+134,New York,Houston,2023-12-02,2023-12-09,Delivered,280.65
+135,Chicago,Houston,2023-02-26,2023-03-03,In Transit,225.71
+136,Houston,Dallas,2023-07-13,2023-07-14,Delivered,290.49
+137,Miami,Chicago,2023-04-16,2023-04-18,Delayed,127.46
+138,Chicago,Chicago,2023-10-07,2023-10-11,Delayed,114.82
+139,New York,Chicago,2023-04-08,2023-04-11,Delivered,135.65
+140,Houston,Chicago,2023-02-11,2023-02-18,In Transit,290.87
+141,Miami,San Francisco,2023-03-27,2023-04-03,Delayed,112.07
+142,Chicago,San Francisco,2023-07-14,2023-07-15,Delivered,136.85
+143,Houston,Dallas,2023-02-02,2023-02-04,Delivered,236.62
+144,Chicago,Houston,2023-10-16,2023-10-18,In Transit,258.21
+145,Houston,Houston,2023-11-03,2023-11-07,Delayed,128.47
+146,Houston,Dallas,2023-12-13,2023-12-20,Delayed,161.48
+147,Houston,Houston,2023-11-09,2023-11-13,Delayed,261.84
+148,Chicago,Dallas,2023-12-03,2023-12-09,Delayed,179.26
+149,Chicago,Dallas,2023-11-11,2023-11-13,In Transit,247.56
+150,Houston,Chicago,2023-09-13,2023-09-20,Delivered,202.74
+151,Chicago,Boston,2023-03-23,2023-03-30,Delivered,269.83
+152,Houston,Houston,2023-10-23,2023-10-26,Delayed,230.3
+153,New York,Houston,2023-01-28,2023-02-04,Delayed,116.54
+154,Chicago,Dallas,2023-05-12,2023-05-13,Delivered,163.93
+155,Chicago,Dallas,2023-04-23,2023-04-27,Delivered,267.25
+156,New York,Chicago,2023-03-21,2023-03-22,Delayed,131.07
+157,New York,Boston,2023-11-13,2023-11-18,In Transit,211.56
+158,Miami,Dallas,2023-04-12,2023-04-13,In Transit,246.68
+159,New York,San Francisco,2023-05-10,2023-05-15,In Transit,230.51
+160,New York,Boston,2023-05-24,2023-05-26,Delayed,196.12
+161,Chicago,Chicago,2023-05-05,2023-05-09,In Transit,203.18
+162,Miami,Dallas,2023-04-19,2023-04-24,Delayed,267.96
+163,Chicago,San Francisco,2023-09-26,2023-10-01,Delivered,174.65
+164,New York,San Francisco,2023-03-10,2023-03-15,In Transit,133.99
+165,New York,Chicago,2023-03-30,2023-04-06,Delivered,152.89
+166,Chicago,Dallas,2023-05-03,2023-05-10,Delivered,259.26
+167,Chicago,Boston,2023-01-26,2023-01-28,In Transit,197.42
+168,Los Angeles,San Francisco,2023-01-11,2023-01-17,In Transit,161.53
+169,Los Angeles,Chicago,2023-10-23,2023-10-25,Delayed,175.36
+170,Los Angeles,Boston,2023-01-27,2023-01-29,In Transit,174.0
+171,New York,Houston,2023-05-12,2023-05-15,Delivered,205.4
+172,Chicago,Boston,2023-10-25,2023-11-01,In Transit,112.77
+173,Miami,Dallas,2023-09-19,2023-09-26,Delivered,272.39
+174,Los Angeles,Houston,2023-11-23,2023-11-30,In Transit,205.21
+175,Chicago,Boston,2023-12-01,2023-12-04,Delivered,186.61
+176,Chicago,Houston,2023-03-20,2023-03-22,Delayed,213.7
+177,New York,Dallas,2023-04-20,2023-04-27,Delayed,196.51
+178,Miami,Chicago,2023-03-21,2023-03-25,In Transit,192.44
+179,Chicago,Chicago,2023-06-13,2023-06-16,Delayed,257.01
+180,Houston,San Francisco,2023-12-23,2023-12-26,In Transit,232.69
+181,Houston,Chicago,2023-10-26,2023-11-01,In Transit,200.83
+182,New York,Dallas,2023-06-20,2023-06-21,Delayed,181.81
+183,Houston,San Francisco,2023-06-02,2023-06-09,Delayed,176.0
+184,New York,Boston,2023-05-21,2023-05-23,In Transit,276.92
+185,Houston,Houston,2023-10-31,2023-11-04,Delivered,231.22
+186,Chicago,Houston,2023-04-26,2023-05-03,Delayed,192.95
+187,New York,Chicago,2023-03-29,2023-04-02,In Transit,166.15
+188,Miami,San Francisco,2023-04-15,2023-04-16,Delivered,273.14
+189,Miami,Dallas,2023-01-16,2023-01-20,In Transit,285.01
+190,Los Angeles,Dallas,2023-12-25,2023-12-31,Delayed,270.42
+191,Houston,Chicago,2023-06-22,2023-06-28,In Transit,151.33
+192,Los Angeles,Chicago,2023-08-24,2023-08-30,In Transit,275.93
+193,Los Angeles,San Francisco,2023-07-22,2023-07-23,In Transit,202.15
+194,New York,Chicago,2023-05-06,2023-05-10,Delayed,136.84
+195,Miami,Dallas,2023-08-06,2023-08-12,Delayed,101.56
+196,New York,Boston,2023-09-01,2023-09-04,Delivered,261.18
+197,Houston,Boston,2023-07-30,2023-08-01,In Transit,174.2
+198,Chicago,San Francisco,2023-10-02,2023-10-08,In Transit,288.75
+199,Chicago,Dallas,2023-06-14,2023-06-17,Delivered,234.42
+200,Los Angeles,San Francisco,2023-06-17,2023-06-21,In Transit,112.89
+201,Los Angeles,Houston,2023-02-28,2023-03-07,In Transit,289.97
+202,New York,Chicago,2023-12-08,2023-12-13,Delivered,165.21
+203,Miami,Houston,2023-12-15,2023-12-16,Delayed,146.59
+204,Los Angeles,Boston,2023-05-24,2023-05-25,Delayed,217.75
+205,New York,Chicago,2023-02-26,2023-03-02,Delivered,221.39
+206,Houston,Dallas,2023-10-13,2023-10-14,Delayed,142.4
+207,Chicago,San Francisco,2023-02-02,2023-02-08,Delivered,158.52
+208,Miami,Dallas,2023-04-20,2023-04-21,Delivered,152.18
+209,New York,San Francisco,2023-06-10,2023-06-11,Delivered,278.31
+210,New York,Chicago,2023-10-12,2023-10-16,In Transit,220.55
+211,Los Angeles,Houston,2023-03-05,2023-03-09,In Transit,267.4
+212,Los Angeles,Boston,2023-03-25,2023-03-31,Delivered,236.51
+213,Houston,San Francisco,2023-02-11,2023-02-16,In Transit,116.16
+214,Chicago,Boston,2023-10-31,2023-11-02,Delivered,273.69
+215,Miami,Dallas,2023-09-10,2023-09-13,Delayed,185.68
+216,Miami,Dallas,2023-09-15,2023-09-21,Delivered,221.56
+217,Los Angeles,Houston,2023-07-14,2023-07-16,Delivered,208.02
+218,Miami,Boston,2023-08-31,2023-09-03,In Transit,149.94
+219,Los Angeles,Boston,2023-12-05,2023-12-07,Delayed,134.6
+220,New York,San Francisco,2023-12-31,2024-01-05,Delivered,151.46
+221,Houston,Chicago,2023-01-20,2023-01-21,In Transit,188.81
+222,Miami,Chicago,2023-11-08,2023-11-13,In Transit,127.13
+223,Miami,Chicago,2023-04-28,2023-04-29,In Transit,210.71
+224,Miami,Chicago,2023-10-23,2023-10-27,In Transit,291.32
+225,Houston,San Francisco,2023-11-16,2023-11-22,Delayed,290.07
+226,New York,Chicago,2023-09-27,2023-10-03,Delivered,202.59
+227,Chicago,San Francisco,2023-07-27,2023-08-01,Delivered,236.6
+228,Houston,Dallas,2023-11-10,2023-11-16,In Transit,102.12
+229,Chicago,Dallas,2023-11-22,2023-11-28,Delayed,124.31
+230,Houston,Boston,2023-02-13,2023-02-16,In Transit,278.63
+231,Los Angeles,Dallas,2023-07-15,2023-07-17,In Transit,225.17
+232,New York,Houston,2023-12-28,2024-01-02,In Transit,224.4
+233,Los Angeles,Boston,2023-02-23,2023-02-24,Delayed,242.44
+234,Los Angeles,Houston,2023-08-27,2023-09-03,Delayed,107.52
+235,Los Angeles,Chicago,2023-12-16,2023-12-23,In Transit,105.13
+236,Los Angeles,Houston,2023-04-20,2023-04-23,Delivered,249.88
+237,Houston,Houston,2023-12-08,2023-12-10,Delayed,159.63
+238,Miami,San Francisco,2023-02-20,2023-02-23,Delivered,172.12
+239,New York,Chicago,2023-12-10,2023-12-16,In Transit,227.34
+240,Chicago,San Francisco,2023-10-30,2023-11-05,Delivered,161.28
+241,New York,Dallas,2023-11-22,2023-11-28,In Transit,123.23
+242,Houston,Chicago,2023-03-15,2023-03-22,In Transit,226.09
+243,Los Angeles,San Francisco,2023-10-24,2023-10-28,In Transit,257.08
+244,Houston,Boston,2023-06-16,2023-06-19,In Transit,181.4
+245,Los Angeles,San Francisco,2023-03-17,2023-03-21,In Transit,113.01
+246,Chicago,Chicago,2023-10-22,2023-10-28,In Transit,253.76
+247,New York,Dallas,2023-02-20,2023-02-25,In Transit,299.28
+248,Miami,San Francisco,2023-04-08,2023-04-13,Delayed,235.25
+249,New York,Boston,2023-07-26,2023-07-29,Delayed,291.02
+250,Miami,Dallas,2023-05-01,2023-05-03,In Transit,164.19
+251,Houston,Dallas,2023-05-16,2023-05-17,Delivered,257.3
+252,New York,Houston,2023-12-13,2023-12-19,In Transit,133.25
+253,Miami,Boston,2023-09-12,2023-09-16,Delayed,202.18
+254,Houston,San Francisco,2023-08-04,2023-08-11,Delayed,234.96
+255,Los Angeles,Dallas,2023-10-04,2023-10-05,In Transit,141.15
+256,Chicago,Houston,2023-05-29,2023-05-31,In Transit,262.16
+257,Miami,Chicago,2023-01-11,2023-01-16,In Transit,278.01
+258,Houston,Houston,2023-10-17,2023-10-20,Delivered,273.99
+259,Chicago,Dallas,2023-08-16,2023-08-22,Delivered,108.45
+260,Houston,Boston,2023-01-12,2023-01-16,In Transit,177.74
+261,Houston,Chicago,2023-02-15,2023-02-18,In Transit,279.75
+262,Los Angeles,Houston,2023-10-01,2023-10-05,In Transit,139.94
+263,New York,Boston,2023-12-09,2023-12-12,Delivered,239.29
+264,Chicago,Dallas,2023-06-15,2023-06-17,Delayed,208.21
+265,Chicago,San Francisco,2023-02-23,2023-02-28,Delayed,123.44
+266,New York,San Francisco,2023-10-09,2023-10-13,Delivered,130.41
+267,Houston,Houston,2023-06-14,2023-06-15,Delivered,117.23
+268,Chicago,Boston,2023-09-17,2023-09-18,Delivered,255.37
+269,Miami,Dallas,2023-05-02,2023-05-06,Delivered,235.85
+270,Miami,Chicago,2023-03-31,2023-04-05,Delivered,231.1
+271,Los Angeles,Chicago,2023-08-19,2023-08-21,In Transit,209.32
+272,Chicago,San Francisco,2023-01-04,2023-01-11,Delayed,110.59
+273,Los Angeles,San Francisco,2023-02-15,2023-02-17,Delayed,257.28
+274,Los Angeles,Houston,2023-10-20,2023-10-21,In Transit,171.45
+275,Los Angeles,Houston,2023-05-07,2023-05-10,Delivered,157.44
+276,New York,San Francisco,2023-07-30,2023-08-05,Delayed,144.78
+277,Houston,Chicago,2023-06-16,2023-06-19,Delivered,295.08
+278,Houston,Chicago,2023-01-28,2023-01-29,Delayed,198.1
+279,Miami,Houston,2023-04-13,2023-04-19,Delivered,112.03
+280,Los Angeles,Chicago,2023-08-26,2023-08-27,In Transit,220.86
+281,New York,Dallas,2023-07-12,2023-07-16,Delayed,244.88
+282,Miami,Chicago,2023-06-02,2023-06-05,In Transit,293.37
+283,Chicago,Dallas,2023-10-20,2023-10-27,Delayed,214.32
+284,Chicago,Dallas,2023-10-06,2023-10-08,In Transit,151.45
+285,Chicago,Houston,2023-01-29,2023-01-30,Delayed,258.8
+286,Miami,Boston,2023-05-12,2023-05-19,In Transit,245.1
+287,New York,Chicago,2023-11-01,2023-11-05,Delivered,176.49
+288,Houston,Dallas,2023-04-18,2023-04-20,In Transit,197.8
+289,Chicago,Boston,2023-06-11,2023-06-15,Delayed,174.59
+290,New York,Boston,2023-03-02,2023-03-03,In Transit,258.05
+291,New York,San Francisco,2023-10-24,2023-10-29,Delivered,280.86
+292,Los Angeles,Dallas,2023-04-22,2023-04-23,Delayed,126.55
+293,New York,Chicago,2023-04-05,2023-04-12,In Transit,188.51
+294,Chicago,Chicago,2023-12-15,2023-12-19,Delayed,168.15
+295,Miami,Dallas,2023-12-29,2024-01-04,Delayed,215.17
+296,Chicago,Dallas,2023-01-20,2023-01-21,In Transit,209.92
+297,Miami,San Francisco,2023-10-13,2023-10-20,Delayed,160.68
+298,New York,Boston,2023-02-14,2023-02-15,Delivered,196.35
+299,Chicago,San Francisco,2023-05-03,2023-05-09,Delayed,166.55
+300,Los Angeles,San Francisco,2023-01-30,2023-01-31,Delivered,104.34
+301,Miami,San Francisco,2023-08-17,2023-08-19,Delivered,197.27
+302,Los Angeles,Dallas,2023-11-15,2023-11-22,In Transit,156.48
+303,Houston,Houston,2023-10-22,2023-10-29,In Transit,158.74
+304,Chicago,Dallas,2023-03-29,2023-04-01,Delivered,145.05
+305,Los Angeles,Dallas,2023-08-26,2023-08-27,In Transit,280.65
+306,Los Angeles,Boston,2023-11-25,2023-11-29,In Transit,284.76
+307,Chicago,Boston,2023-09-01,2023-09-05,Delayed,275.58
+308,Chicago,Boston,2023-09-17,2023-09-19,In Transit,260.23
+309,New York,Dallas,2023-11-26,2023-11-27,In Transit,108.26
+310,Miami,Boston,2023-02-25,2023-02-26,Delayed,155.32
+311,New York,Houston,2023-01-24,2023-01-25,In Transit,297.8
+312,Miami,San Francisco,2023-08-03,2023-08-09,Delivered,145.38
+313,Miami,Chicago,2023-04-28,2023-05-02,Delayed,138.92
+314,Chicago,San Francisco,2023-10-31,2023-11-06,In Transit,151.67
+315,Chicago,Boston,2023-05-30,2023-06-03,Delayed,259.87
+316,New York,Dallas,2023-09-09,2023-09-10,Delayed,289.46
+317,New York,Houston,2023-09-02,2023-09-06,In Transit,166.31
+318,Los Angeles,Dallas,2023-04-18,2023-04-25,Delayed,152.2
+319,New York,Dallas,2023-05-28,2023-06-03,Delivered,129.5
+320,Chicago,San Francisco,2023-03-26,2023-04-02,Delivered,153.24
+321,Houston,Houston,2023-10-01,2023-10-06,In Transit,176.61
+322,Miami,San Francisco,2023-12-21,2023-12-26,Delayed,205.9
+323,Houston,Dallas,2023-12-13,2023-12-17,Delayed,137.5
+324,Houston,Boston,2023-08-19,2023-08-23,In Transit,284.43
+325,New York,Dallas,2023-05-02,2023-05-03,Delivered,215.69
+326,New York,San Francisco,2023-08-09,2023-08-16,In Transit,223.69
+327,New York,Chicago,2023-01-09,2023-01-11,Delayed,286.89
+328,Houston,Dallas,2023-09-06,2023-09-07,Delayed,146.04
+329,Miami,Dallas,2023-09-23,2023-09-24,In Transit,274.28
+330,Los Angeles,Boston,2023-01-01,2023-01-08,In Transit,161.42
+331,New York,Houston,2023-11-15,2023-11-20,Delivered,283.55
+332,New York,Houston,2023-08-19,2023-08-23,Delayed,238.53
+333,Chicago,Dallas,2023-12-19,2023-12-25,In Transit,144.07
+334,New York,Boston,2023-05-17,2023-05-18,Delayed,101.66
+335,Chicago,Dallas,2023-09-04,2023-09-09,Delivered,124.71
+336,New York,Houston,2023-03-12,2023-03-15,Delayed,182.43
+337,Los Angeles,Boston,2023-07-02,2023-07-04,Delayed,183.12
+338,Houston,San Francisco,2023-07-27,2023-07-29,In Transit,126.19
+339,New York,Chicago,2023-04-16,2023-04-23,Delayed,158.25
+340,New York,Chicago,2023-06-13,2023-06-17,Delayed,202.99
+341,Los Angeles,Houston,2023-06-17,2023-06-21,In Transit,267.17
+342,Los Angeles,Houston,2023-08-16,2023-08-23,Delayed,232.16
+343,Miami,Houston,2023-07-21,2023-07-23,Delivered,186.08
+344,Houston,Boston,2023-07-30,2023-08-05,In Transit,194.66
+345,Chicago,Dallas,2023-03-22,2023-03-24,Delivered,167.57
+346,Houston,Chicago,2023-04-27,2023-04-30,Delivered,101.71
+347,New York,Boston,2023-06-02,2023-06-09,In Transit,282.61
+348,Houston,Chicago,2023-09-02,2023-09-06,Delayed,248.28
+349,New York,Boston,2023-09-07,2023-09-12,Delayed,227.99
+350,Los Angeles,Chicago,2023-09-02,2023-09-04,In Transit,201.34
+351,Houston,Dallas,2023-05-09,2023-05-12,In Transit,126.37
+352,New York,Boston,2023-05-20,2023-05-23,In Transit,208.32
+353,New York,Boston,2023-09-02,2023-09-08,Delayed,145.25
+354,New York,Boston,2023-01-04,2023-01-05,Delayed,237.96
+355,Miami,San Francisco,2023-04-07,2023-04-09,Delayed,158.52
+356,Chicago,Chicago,2023-01-16,2023-01-22,Delivered,259.48
+357,Los Angeles,Dallas,2023-05-13,2023-05-18,In Transit,222.02
+358,Los Angeles,Boston,2023-05-29,2023-06-03,In Transit,279.09
+359,Houston,Dallas,2023-12-27,2023-12-29,Delivered,274.43
+360,Houston,Boston,2023-06-25,2023-06-29,In Transit,115.26
+361,New York,Houston,2023-04-06,2023-04-12,In Transit,125.08
+362,Miami,Houston,2023-11-06,2023-11-11,Delivered,188.46
+363,Houston,Houston,2023-02-03,2023-02-05,In Transit,268.44
+364,Los Angeles,San Francisco,2023-10-21,2023-10-25,Delivered,248.9
+365,Miami,Dallas,2023-03-17,2023-03-22,Delivered,171.69
+366,Chicago,Boston,2023-01-28,2023-02-01,In Transit,225.96
+367,Houston,Boston,2023-05-19,2023-05-21,In Transit,265.44
+368,New York,Dallas,2023-11-29,2023-11-30,In Transit,143.54
+369,Los Angeles,San Francisco,2023-05-04,2023-05-09,Delivered,209.28
+370,Chicago,San Francisco,2023-11-15,2023-11-17,In Transit,190.2
+371,Los Angeles,Houston,2023-10-01,2023-10-04,In Transit,184.77
+372,Miami,Dallas,2023-06-14,2023-06-20,Delivered,243.48
+373,Houston,San Francisco,2023-05-22,2023-05-27,In Transit,233.3
+374,Los Angeles,Houston,2023-05-29,2023-06-02,Delivered,262.91
+375,Los Angeles,Dallas,2023-06-30,2023-07-06,In Transit,225.52
+376,Chicago,Boston,2023-11-20,2023-11-23,Delayed,196.51
+377,Miami,Houston,2023-07-01,2023-07-03,In Transit,106.64
+378,Los Angeles,Houston,2023-08-27,2023-08-31,Delayed,218.9
+379,Miami,San Francisco,2023-08-24,2023-08-29,In Transit,295.35
+380,Chicago,Dallas,2023-06-09,2023-06-13,Delivered,223.38
+381,Miami,Houston,2023-02-01,2023-02-02,Delayed,218.08
+382,Miami,Boston,2023-03-07,2023-03-10,Delayed,171.47
+383,Miami,Boston,2023-11-07,2023-11-08,Delayed,111.38
+384,Chicago,Chicago,2023-09-12,2023-09-19,Delivered,104.13
+385,Miami,Dallas,2023-06-07,2023-06-14,In Transit,227.5
+386,Chicago,Houston,2023-09-24,2023-09-29,In Transit,234.79
+387,Chicago,Boston,2023-07-10,2023-07-11,Delivered,252.58
+388,New York,San Francisco,2023-12-10,2023-12-15,Delivered,131.41
+389,Houston,Chicago,2023-11-05,2023-11-12,In Transit,136.31
+390,Chicago,Houston,2023-02-24,2023-02-27,Delivered,199.5
+391,Chicago,Boston,2023-11-29,2023-12-03,Delivered,297.0
+392,New York,San Francisco,2023-04-04,2023-04-08,Delivered,268.55
+393,Miami,San Francisco,2023-11-21,2023-11-25,Delayed,131.35
+394,Houston,Boston,2023-01-14,2023-01-19,Delivered,109.91
+395,New York,Houston,2023-10-16,2023-10-22,Delayed,163.69
+396,Houston,Dallas,2023-02-20,2023-02-27,Delivered,137.71
+397,New York,Chicago,2023-05-11,2023-05-12,In Transit,108.47
+398,Chicago,Chicago,2023-09-26,2023-09-27,Delivered,142.84
+399,New York,Dallas,2023-10-23,2023-10-26,In Transit,199.29
+400,Chicago,Houston,2023-04-29,2023-05-03,Delivered,237.57
+401,Los Angeles,Dallas,2023-10-10,2023-10-13,Delivered,264.55
+402,Chicago,Chicago,2023-09-18,2023-09-20,Delayed,109.26
+403,Houston,Dallas,2023-11-13,2023-11-20,Delayed,109.45
+404,Miami,Boston,2023-05-02,2023-05-06,Delivered,223.65
+405,New York,Boston,2023-04-12,2023-04-18,Delivered,181.79
+406,Chicago,San Francisco,2023-06-16,2023-06-20,Delivered,186.66
+407,Los Angeles,Chicago,2023-10-08,2023-10-12,In Transit,218.23
+408,Los Angeles,Dallas,2023-07-09,2023-07-15,Delayed,207.48
+409,Los Angeles,San Francisco,2023-05-02,2023-05-07,Delayed,240.66
+410,Miami,Boston,2023-12-23,2023-12-29,Delivered,160.58
+411,New York,Chicago,2023-09-21,2023-09-28,In Transit,151.03
+412,Miami,San Francisco,2023-05-15,2023-05-20,In Transit,201.34
+413,Houston,Houston,2023-07-02,2023-07-09,In Transit,256.89
+414,Los Angeles,Chicago,2023-02-06,2023-02-07,In Transit,141.87
+415,Miami,Chicago,2023-05-05,2023-05-12,Delivered,168.35
+416,New York,San Francisco,2023-11-24,2023-11-26,In Transit,210.78
+417,New York,Chicago,2023-11-06,2023-11-13,Delayed,244.16
+418,New York,Chicago,2023-08-16,2023-08-23,Delivered,141.0
+419,Chicago,Boston,2023-08-31,2023-09-01,Delivered,143.34
+420,Chicago,Boston,2023-12-28,2023-12-31,In Transit,107.92
+421,New York,Chicago,2023-05-06,2023-05-08,In Transit,288.41
+422,Houston,Dallas,2023-08-13,2023-08-17,Delayed,103.97
+423,New York,Dallas,2023-07-01,2023-07-08,Delayed,168.56
+424,Chicago,Houston,2023-07-04,2023-07-09,Delivered,101.66
+425,Los Angeles,Dallas,2023-03-03,2023-03-08,In Transit,222.66
+426,Miami,Houston,2023-08-26,2023-08-30,Delivered,269.79
+427,Miami,Houston,2023-05-31,2023-06-04,In Transit,215.11
+428,Miami,Chicago,2023-03-18,2023-03-24,Delayed,242.46
+429,Miami,Boston,2023-08-25,2023-09-01,Delayed,196.19
+430,Miami,Houston,2023-07-20,2023-07-26,In Transit,139.23
+431,Miami,Dallas,2023-06-29,2023-07-06,In Transit,285.79
+432,Los Angeles,Dallas,2023-07-03,2023-07-08,In Transit,268.03
+433,New York,San Francisco,2023-01-17,2023-01-20,In Transit,234.46
+434,Miami,Boston,2023-12-01,2023-12-03,In Transit,231.47
+435,Houston,Boston,2023-10-21,2023-10-25,Delayed,259.09
+436,Los Angeles,Houston,2023-07-27,2023-07-28,In Transit,291.61
+437,Los Angeles,Dallas,2023-02-20,2023-02-24,In Transit,191.06
+438,New York,Chicago,2023-02-08,2023-02-13,In Transit,237.14
+439,New York,Dallas,2023-04-07,2023-04-08,Delivered,152.98
+440,Miami,Boston,2023-02-23,2023-03-01,Delivered,189.78
+441,New York,Dallas,2023-08-08,2023-08-11,Delayed,214.36
+442,New York,Dallas,2023-01-19,2023-01-23,Delivered,115.0
+443,Miami,Houston,2023-10-01,2023-10-05,In Transit,221.63
+444,Miami,San Francisco,2023-07-01,2023-07-04,Delivered,157.74
+445,Chicago,Dallas,2023-06-02,2023-06-07,Delivered,174.53
+446,Houston,Dallas,2023-12-23,2023-12-28,Delivered,145.17
+447,Chicago,Chicago,2023-09-29,2023-09-30,Delivered,122.67
+448,Los Angeles,Houston,2023-11-02,2023-11-06,Delivered,108.03
+449,Los Angeles,Chicago,2023-05-05,2023-05-08,In Transit,263.49
+450,Miami,Dallas,2023-04-10,2023-04-12,In Transit,127.09
+451,Los Angeles,San Francisco,2023-04-10,2023-04-16,In Transit,103.39
+452,Chicago,Dallas,2023-06-03,2023-06-08,Delayed,242.7
+453,Houston,Boston,2023-10-22,2023-10-25,Delayed,225.22
+454,Miami,Boston,2023-08-29,2023-09-03,In Transit,156.27
+455,Los Angeles,Dallas,2023-11-26,2023-12-01,Delayed,203.71
+456,Chicago,Boston,2023-09-24,2023-10-01,Delivered,127.6
+457,Chicago,Chicago,2023-05-31,2023-06-07,Delivered,144.29
+458,Chicago,Dallas,2023-03-04,2023-03-05,Delivered,263.08
+459,Los Angeles,Chicago,2023-02-26,2023-02-28,In Transit,146.07
+460,New York,Dallas,2023-10-25,2023-10-27,Delivered,251.63
+461,Chicago,Dallas,2023-01-12,2023-01-13,Delayed,209.16
+462,Houston,San Francisco,2023-07-16,2023-07-17,In Transit,194.84
+463,New York,Boston,2023-09-24,2023-09-30,In Transit,155.85
+464,Houston,Dallas,2023-09-21,2023-09-22,Delayed,261.52
+465,Los Angeles,Boston,2023-03-05,2023-03-09,In Transit,285.51
+466,Chicago,Houston,2023-06-17,2023-06-21,Delivered,255.7
+467,Chicago,San Francisco,2023-10-06,2023-10-10,Delayed,154.9
+468,Chicago,Boston,2023-12-26,2023-12-31,Delayed,293.01
+469,Houston,Boston,2023-01-08,2023-01-15,Delayed,184.07
+470,Chicago,Dallas,2023-12-22,2023-12-27,Delayed,286.3
+471,Miami,Boston,2023-03-14,2023-03-21,Delivered,161.24
+472,New York,Chicago,2023-08-09,2023-08-16,Delivered,187.2
+473,Los Angeles,Chicago,2023-05-30,2023-06-03,In Transit,236.66
+474,Houston,Chicago,2023-06-12,2023-06-18,In Transit,198.24
+475,Los Angeles,Boston,2023-01-14,2023-01-18,Delivered,187.17
+476,New York,Houston,2023-09-01,2023-09-05,In Transit,194.11
+477,Houston,Houston,2023-08-18,2023-08-21,In Transit,259.74
+478,Houston,Houston,2023-12-05,2023-12-07,In Transit,175.44
+479,Chicago,San Francisco,2023-11-06,2023-11-09,Delivered,146.13
+480,Los Angeles,Houston,2023-10-06,2023-10-12,Delayed,214.94
+481,New York,Houston,2023-07-23,2023-07-28,Delivered,178.21
+482,New York,Houston,2023-05-20,2023-05-27,Delivered,147.57
+483,New York,Chicago,2023-02-22,2023-02-27,Delivered,155.01
+484,Los Angeles,Chicago,2023-09-20,2023-09-23,Delayed,133.38
+485,Los Angeles,San Francisco,2023-06-07,2023-06-11,Delayed,128.64
+486,Chicago,Chicago,2023-01-21,2023-01-22,Delivered,154.26
+487,Chicago,Chicago,2023-02-01,2023-02-05,In Transit,161.58
+488,New York,Chicago,2023-03-12,2023-03-15,Delayed,219.94
+489,Houston,San Francisco,2023-09-29,2023-10-05,Delayed,219.38
+490,Houston,Chicago,2023-10-25,2023-10-27,Delayed,102.1
+491,Houston,Chicago,2023-01-23,2023-01-28,In Transit,268.41
+492,Chicago,San Francisco,2023-08-25,2023-08-27,Delayed,103.39
+493,Houston,Dallas,2023-02-06,2023-02-12,Delivered,256.73
+494,Chicago,Dallas,2023-03-18,2023-03-20,Delayed,174.1
+495,Los Angeles,San Francisco,2023-02-02,2023-02-05,In Transit,245.79
+496,Houston,Boston,2023-09-29,2023-10-02,In Transit,222.55
+497,Los Angeles,San Francisco,2023-11-11,2023-11-13,Delayed,217.03
+498,Houston,Chicago,2023-02-26,2023-03-01,Delayed,178.77
+499,New York,San Francisco,2023-11-12,2023-11-18,In Transit,122.4
+500,Miami,Dallas,2023-07-09,2023-07-11,In Transit,199.79
+501,Houston,Chicago,2023-01-12,2023-01-14,Delayed,248.09
+502,New York,San Francisco,2023-10-25,2023-10-31,In Transit,151.59
+503,Miami,Chicago,2023-10-21,2023-10-22,Delayed,194.65
+504,Los Angeles,Chicago,2023-09-09,2023-09-10,In Transit,204.14
+505,Los Angeles,Boston,2023-02-25,2023-03-02,Delayed,229.53
+506,Miami,Boston,2023-01-24,2023-01-26,In Transit,197.63
+507,Houston,Dallas,2023-11-22,2023-11-23,Delivered,191.13
+508,Los Angeles,San Francisco,2023-10-05,2023-10-07,Delivered,181.26
+509,New York,San Francisco,2023-09-28,2023-10-01,In Transit,299.46
+510,Miami,Houston,2023-01-26,2023-01-28,In Transit,296.52
+511,Miami,Chicago,2023-09-24,2023-09-26,In Transit,201.13
+512,Miami,Dallas,2023-03-28,2023-03-31,In Transit,266.17
+513,New York,Dallas,2023-12-04,2023-12-10,In Transit,207.57
+514,Chicago,San Francisco,2023-11-08,2023-11-12,In Transit,244.31
+515,Los Angeles,Chicago,2023-04-07,2023-04-14,Delivered,143.19
+516,Miami,San Francisco,2023-05-01,2023-05-02,Delivered,158.24
+517,Chicago,Boston,2023-11-18,2023-11-23,Delayed,162.29
+518,Miami,Chicago,2023-05-30,2023-06-06,In Transit,252.64
+519,Miami,San Francisco,2023-04-17,2023-04-19,In Transit,271.55
+520,Miami,San Francisco,2023-07-21,2023-07-24,Delivered,100.04
+521,Los Angeles,San Francisco,2023-09-13,2023-09-17,In Transit,202.43
+522,Los Angeles,San Francisco,2023-07-12,2023-07-15,Delivered,220.52
+523,Miami,Houston,2023-05-30,2023-06-05,Delayed,283.36
+524,Los Angeles,San Francisco,2023-09-25,2023-09-29,In Transit,292.31
+525,Chicago,San Francisco,2023-07-14,2023-07-20,Delayed,217.77
+526,Houston,Chicago,2023-10-05,2023-10-08,Delivered,200.68
+527,New York,Boston,2023-07-07,2023-07-08,Delivered,194.33
+528,New York,Boston,2023-10-18,2023-10-24,Delivered,261.98
+529,Chicago,Dallas,2023-01-29,2023-02-01,Delivered,240.98
+530,Chicago,San Francisco,2023-06-29,2023-07-03,Delivered,277.74
+531,Miami,Chicago,2023-08-17,2023-08-18,Delayed,115.86
+532,New York,San Francisco,2023-07-21,2023-07-25,In Transit,268.43
+533,Chicago,Houston,2023-05-18,2023-05-25,Delivered,248.63
+534,Los Angeles,San Francisco,2023-02-02,2023-02-05,In Transit,199.72
+535,Chicago,Dallas,2023-05-05,2023-05-12,Delayed,216.31
+536,Houston,Chicago,2023-04-23,2023-04-29,In Transit,126.34
+537,Houston,San Francisco,2023-03-07,2023-03-12,In Transit,154.5
+538,Houston,Chicago,2023-04-15,2023-04-20,Delayed,106.8
+539,Chicago,Chicago,2023-11-26,2023-11-29,Delayed,173.46
+540,Houston,Dallas,2023-08-20,2023-08-25,Delayed,117.49
+541,Chicago,San Francisco,2023-10-30,2023-11-02,Delayed,267.77
+542,Chicago,Chicago,2023-08-22,2023-08-24,In Transit,286.91
+543,Chicago,San Francisco,2023-02-09,2023-02-15,In Transit,190.63
+544,Houston,San Francisco,2023-09-12,2023-09-14,Delayed,149.96
+545,Miami,Chicago,2023-01-18,2023-01-20,Delivered,150.84
+546,Houston,Houston,2023-07-05,2023-07-11,Delayed,156.61
+547,Los Angeles,Chicago,2023-03-08,2023-03-13,Delayed,158.1
+548,New York,Dallas,2023-10-16,2023-10-17,Delivered,100.69
+549,New York,Dallas,2023-12-04,2023-12-08,Delayed,137.74
+550,Miami,Chicago,2023-07-15,2023-07-16,In Transit,239.79
+551,Chicago,San Francisco,2023-08-11,2023-08-15,In Transit,245.54
+552,Miami,San Francisco,2023-02-21,2023-02-27,Delayed,212.12
+553,Miami,Chicago,2023-01-28,2023-01-31,Delayed,141.72
+554,Chicago,Chicago,2023-11-15,2023-11-17,Delayed,182.73
+555,Los Angeles,Houston,2023-09-20,2023-09-27,Delivered,220.84
+556,Miami,Dallas,2023-07-23,2023-07-26,Delayed,119.46
+557,Chicago,Boston,2023-01-23,2023-01-30,Delivered,207.01
+558,Los Angeles,San Francisco,2023-07-31,2023-08-05,Delayed,144.04
+559,Los Angeles,San Francisco,2023-05-06,2023-05-13,Delivered,160.6
+560,Chicago,Houston,2023-08-16,2023-08-18,Delayed,111.55
+561,Miami,Dallas,2023-08-11,2023-08-16,Delivered,215.5
+562,Los Angeles,Dallas,2023-08-01,2023-08-04,Delayed,143.02
+563,New York,Boston,2023-07-24,2023-07-26,Delivered,248.39
+564,New York,Houston,2023-10-04,2023-10-06,Delayed,215.44
+565,Miami,Boston,2023-01-09,2023-01-12,Delayed,259.62
+566,Houston,Houston,2023-12-17,2023-12-23,Delivered,268.87
+567,Miami,Chicago,2023-06-18,2023-06-21,Delayed,203.14
+568,Houston,Dallas,2023-07-30,2023-08-01,Delivered,201.43
+569,New York,Chicago,2023-07-14,2023-07-16,Delivered,274.59
+570,Los Angeles,Boston,2023-10-27,2023-10-28,Delayed,104.2
+571,New York,Chicago,2023-02-28,2023-03-04,Delivered,160.78
+572,Los Angeles,Chicago,2023-10-24,2023-10-28,Delivered,234.61
+573,New York,Boston,2023-08-07,2023-08-10,In Transit,189.62
+574,New York,San Francisco,2023-06-08,2023-06-10,Delivered,269.15
+575,New York,Houston,2023-02-06,2023-02-08,Delayed,243.69
+576,Miami,Houston,2023-10-11,2023-10-13,Delivered,297.1
+577,Miami,San Francisco,2023-03-04,2023-03-09,Delivered,133.66
+578,Miami,Boston,2023-07-11,2023-07-13,Delivered,168.62
+579,Los Angeles,San Francisco,2023-11-14,2023-11-16,In Transit,104.66
+580,New York,Boston,2023-06-25,2023-06-30,In Transit,290.65
+581,Houston,Dallas,2023-09-08,2023-09-14,Delayed,185.76
+582,Los Angeles,San Francisco,2023-12-26,2023-12-27,In Transit,206.04
+583,Chicago,Boston,2023-10-14,2023-10-18,Delivered,115.94
+584,Houston,Boston,2023-10-31,2023-11-07,Delivered,122.09
+585,Miami,Boston,2023-08-21,2023-08-25,In Transit,271.9
+586,New York,Dallas,2023-02-03,2023-02-07,Delivered,284.03
+587,Chicago,San Francisco,2023-09-24,2023-09-27,In Transit,244.15
+588,Miami,Boston,2023-03-08,2023-03-12,Delivered,192.43
+589,Los Angeles,Houston,2023-01-28,2023-02-03,In Transit,201.01
+590,Miami,Boston,2023-09-26,2023-09-28,Delivered,247.05
+591,New York,San Francisco,2023-06-27,2023-06-30,Delayed,143.09
+592,Miami,Boston,2023-08-19,2023-08-26,Delivered,165.22
+593,New York,San Francisco,2023-02-04,2023-02-08,Delayed,197.01
+594,Miami,Dallas,2023-11-04,2023-11-09,In Transit,254.25
+595,Houston,Dallas,2023-12-05,2023-12-10,Delayed,174.43
+596,Los Angeles,Boston,2023-07-21,2023-07-27,Delivered,231.37
+597,Miami,Dallas,2023-10-08,2023-10-12,Delayed,101.98
+598,Miami,Houston,2023-02-04,2023-02-06,In Transit,229.37
+599,Los Angeles,Dallas,2023-05-04,2023-05-09,In Transit,249.23
+600,Houston,Houston,2023-11-15,2023-11-19,Delivered,226.79
+601,Chicago,Dallas,2023-12-31,2024-01-02,Delayed,147.94
+602,Los Angeles,Chicago,2023-07-15,2023-07-22,Delivered,164.53
+603,Houston,Dallas,2023-06-11,2023-06-18,In Transit,218.5
+604,New York,San Francisco,2023-01-12,2023-01-14,Delayed,295.99
+605,New York,Dallas,2023-08-10,2023-08-11,Delivered,127.95
+606,New York,Boston,2023-08-04,2023-08-06,Delivered,248.51
+607,Chicago,San Francisco,2023-04-12,2023-04-16,In Transit,235.43
+608,Chicago,Boston,2023-11-22,2023-11-28,Delivered,137.71
+609,Houston,Boston,2023-11-07,2023-11-08,Delayed,282.68
+610,Los Angeles,Dallas,2023-01-16,2023-01-17,In Transit,214.0
+611,Chicago,San Francisco,2023-01-21,2023-01-25,Delayed,218.71
+612,Los Angeles,Boston,2023-08-12,2023-08-17,Delivered,250.25
+613,Los Angeles,Chicago,2023-11-11,2023-11-16,In Transit,238.14
+614,Houston,San Francisco,2023-04-23,2023-04-25,Delayed,106.58
+615,Los Angeles,Houston,2023-10-22,2023-10-29,Delivered,170.85
+616,Chicago,San Francisco,2023-09-12,2023-09-19,Delayed,158.63
+617,New York,Boston,2023-02-23,2023-02-24,In Transit,183.35
+618,Houston,Dallas,2023-04-01,2023-04-08,In Transit,163.78
+619,Houston,Dallas,2023-02-02,2023-02-09,In Transit,195.25
+620,New York,Chicago,2023-04-04,2023-04-11,In Transit,230.51
+621,Miami,Dallas,2023-01-28,2023-01-30,In Transit,129.84
+622,New York,Houston,2023-10-14,2023-10-21,In Transit,283.51
+623,Chicago,Houston,2023-04-19,2023-04-21,Delivered,253.85
+624,New York,Boston,2023-06-10,2023-06-16,Delivered,143.33
+625,Miami,Boston,2023-05-08,2023-05-14,In Transit,148.9
+626,Chicago,Dallas,2023-11-22,2023-11-24,In Transit,108.12
+627,Los Angeles,San Francisco,2023-01-08,2023-01-12,Delayed,183.04
+628,New York,San Francisco,2023-08-10,2023-08-13,Delayed,233.31
+629,Houston,Boston,2023-07-27,2023-08-03,Delayed,231.81
+630,Miami,Chicago,2023-12-18,2023-12-20,Delivered,250.41
+631,New York,San Francisco,2023-09-22,2023-09-23,In Transit,207.23
+632,Houston,San Francisco,2023-04-22,2023-04-25,Delayed,149.18
+633,New York,Boston,2023-05-30,2023-06-06,Delayed,189.79
+634,Houston,San Francisco,2023-12-17,2023-12-18,Delivered,231.21
+635,Miami,Houston,2023-09-16,2023-09-23,Delayed,100.07
+636,New York,Houston,2023-06-19,2023-06-26,Delivered,219.14
+637,Los Angeles,Houston,2023-09-12,2023-09-18,Delivered,201.71
+638,New York,Houston,2023-08-12,2023-08-15,In Transit,295.67
+639,Houston,San Francisco,2023-01-05,2023-01-09,Delivered,182.45
+640,New York,Chicago,2023-09-09,2023-09-12,In Transit,220.82
+641,Miami,Houston,2023-01-31,2023-02-07,Delayed,124.66
+642,Los Angeles,San Francisco,2023-04-14,2023-04-20,Delivered,122.66
+643,Los Angeles,Boston,2023-11-07,2023-11-12,Delivered,123.88
+644,New York,San Francisco,2023-06-26,2023-06-29,Delivered,106.4
+645,Los Angeles,Boston,2023-03-27,2023-04-01,Delivered,129.62
+646,Miami,San Francisco,2023-10-10,2023-10-13,Delivered,140.78
+647,Chicago,Chicago,2023-10-06,2023-10-13,Delivered,194.6
+648,Miami,San Francisco,2023-10-27,2023-10-31,Delivered,245.83
+649,Chicago,Chicago,2023-12-07,2023-12-09,In Transit,234.42
+650,New York,San Francisco,2023-10-07,2023-10-11,In Transit,196.94
+651,Miami,San Francisco,2023-02-08,2023-02-09,Delivered,145.85
+652,New York,Chicago,2023-07-27,2023-08-02,In Transit,170.5
+653,New York,Chicago,2023-09-28,2023-09-29,In Transit,269.03
+654,Chicago,San Francisco,2023-09-25,2023-10-02,In Transit,159.05
+655,Houston,Boston,2023-01-13,2023-01-16,In Transit,196.32
+656,New York,Chicago,2023-04-22,2023-04-29,In Transit,200.28
+657,New York,Chicago,2023-12-22,2023-12-24,In Transit,160.69
+658,Los Angeles,San Francisco,2023-10-20,2023-10-25,Delivered,260.5
+659,Los Angeles,Boston,2023-06-05,2023-06-06,Delayed,292.79
+660,Los Angeles,Chicago,2023-12-11,2023-12-13,In Transit,236.59
+661,New York,Boston,2023-01-27,2023-02-01,Delivered,205.28
+662,Miami,Boston,2023-04-21,2023-04-26,Delayed,238.56
+663,Houston,Boston,2023-08-12,2023-08-13,In Transit,258.17
+664,New York,Chicago,2023-12-15,2023-12-22,Delayed,218.26
+665,Houston,Dallas,2023-08-01,2023-08-03,Delivered,145.16
+666,Los Angeles,San Francisco,2023-08-22,2023-08-27,In Transit,164.61
+667,Miami,San Francisco,2023-08-02,2023-08-05,Delivered,104.45
+668,Chicago,San Francisco,2023-12-18,2023-12-21,In Transit,222.83
+669,Chicago,Boston,2023-02-03,2023-02-09,Delivered,184.39
+670,Houston,San Francisco,2023-07-05,2023-07-11,Delivered,101.27
+671,Chicago,San Francisco,2023-07-23,2023-07-29,Delivered,195.32
+672,Chicago,Boston,2023-12-04,2023-12-05,In Transit,299.97
+673,New York,Chicago,2023-03-06,2023-03-08,Delayed,134.82
+674,New York,Dallas,2023-06-12,2023-06-19,Delayed,222.81
+675,New York,Chicago,2023-02-03,2023-02-04,In Transit,219.66
+676,Houston,Chicago,2023-10-17,2023-10-18,In Transit,121.16
+677,New York,Houston,2023-02-04,2023-02-10,Delivered,215.33
+678,Chicago,Houston,2023-07-10,2023-07-11,Delivered,133.16
+679,Miami,Boston,2023-05-29,2023-05-30,Delayed,175.84
+680,Miami,Chicago,2023-01-23,2023-01-26,In Transit,263.92
+681,Miami,Dallas,2023-03-12,2023-03-13,Delivered,194.45
+682,Chicago,Boston,2023-03-26,2023-03-27,Delivered,123.75
+683,Los Angeles,Chicago,2023-08-29,2023-09-04,Delivered,264.6
+684,Chicago,Houston,2023-05-31,2023-06-07,Delayed,189.96
+685,Los Angeles,Boston,2023-09-13,2023-09-18,Delivered,129.92
+686,Chicago,Chicago,2023-11-05,2023-11-11,Delivered,217.99
+687,Chicago,Boston,2023-09-06,2023-09-11,In Transit,181.02
+688,New York,San Francisco,2023-06-12,2023-06-16,In Transit,288.25
+689,Houston,Houston,2023-02-22,2023-02-25,In Transit,217.85
+690,New York,Houston,2023-04-25,2023-05-02,In Transit,145.38
+691,Los Angeles,Houston,2023-11-11,2023-11-14,Delayed,248.59
+692,Chicago,Boston,2023-07-20,2023-07-24,Delayed,276.28
+693,Los Angeles,Boston,2023-09-21,2023-09-23,Delivered,195.82
+694,New York,Boston,2023-04-18,2023-04-22,In Transit,167.17
+695,Houston,Houston,2023-10-04,2023-10-11,In Transit,243.19
+696,Miami,Houston,2023-10-22,2023-10-28,In Transit,277.43
+697,Houston,Boston,2023-06-22,2023-06-26,Delivered,172.33
+698,New York,San Francisco,2023-01-25,2023-01-26,Delayed,208.53
+699,Houston,Houston,2023-08-02,2023-08-07,In Transit,113.71
+700,Los Angeles,Dallas,2023-12-26,2023-12-29,Delivered,129.29
+701,New York,Chicago,2023-04-20,2023-04-24,Delivered,158.96
+702,Miami,Chicago,2023-10-13,2023-10-14,Delivered,139.05
+703,New York,Houston,2023-07-25,2023-07-27,Delivered,123.59
+704,New York,Chicago,2023-04-18,2023-04-25,Delayed,211.56
+705,Los Angeles,San Francisco,2023-12-09,2023-12-14,Delivered,220.25
+706,Chicago,Boston,2023-07-12,2023-07-17,Delivered,122.59
+707,Chicago,Boston,2023-12-09,2023-12-14,In Transit,262.89
+708,Los Angeles,Houston,2023-03-16,2023-03-21,Delayed,290.08
+709,Houston,Houston,2023-11-29,2023-12-04,In Transit,156.38
+710,New York,Houston,2023-08-31,2023-09-05,In Transit,187.4
+711,Miami,Dallas,2023-04-22,2023-04-27,In Transit,195.83
+712,Chicago,Chicago,2023-09-25,2023-10-01,Delivered,241.56
+713,Houston,Houston,2023-02-02,2023-02-04,Delayed,262.26
+714,Los Angeles,Boston,2023-11-29,2023-12-03,In Transit,144.63
+715,Chicago,Boston,2023-09-03,2023-09-06,Delayed,150.63
+716,Houston,Chicago,2023-01-22,2023-01-27,In Transit,157.26
+717,Los Angeles,Dallas,2023-03-09,2023-03-13,Delivered,115.95
+718,New York,Houston,2023-11-20,2023-11-22,Delivered,163.4
+719,New York,San Francisco,2023-03-03,2023-03-08,In Transit,228.87
+720,Chicago,Houston,2023-03-03,2023-03-04,In Transit,270.67
+721,New York,Chicago,2023-06-04,2023-06-10,In Transit,298.96
+722,Miami,San Francisco,2023-11-13,2023-11-16,In Transit,220.1
+723,Chicago,Houston,2023-11-24,2023-11-30,In Transit,263.82
+724,Miami,Boston,2023-09-26,2023-09-28,Delivered,286.13
+725,Miami,Chicago,2023-02-15,2023-02-19,Delayed,205.1
+726,Miami,Dallas,2023-08-28,2023-08-31,Delivered,259.69
+727,Los Angeles,San Francisco,2023-07-02,2023-07-03,Delayed,137.58
+728,Miami,Chicago,2023-04-27,2023-04-30,Delivered,285.67
+729,Houston,Houston,2023-02-20,2023-02-22,Delivered,222.79
+730,New York,Chicago,2023-03-12,2023-03-15,Delivered,237.93
+731,Los Angeles,Boston,2023-10-22,2023-10-25,In Transit,135.38
+732,Chicago,San Francisco,2023-02-12,2023-02-14,Delayed,177.85
+733,Los Angeles,Dallas,2023-01-07,2023-01-14,In Transit,197.99
+734,Miami,Houston,2023-09-05,2023-09-07,In Transit,104.01
+735,Chicago,Houston,2023-04-29,2023-05-02,Delivered,283.71
+736,Houston,Boston,2023-07-06,2023-07-10,Delivered,226.08
+737,Los Angeles,Houston,2023-04-02,2023-04-05,Delayed,223.24
+738,New York,Dallas,2023-02-26,2023-03-05,In Transit,143.65
+739,Houston,Dallas,2023-12-28,2024-01-01,In Transit,227.13
+740,New York,Chicago,2023-11-17,2023-11-20,In Transit,105.65
+741,Chicago,Houston,2023-08-21,2023-08-22,Delivered,105.42
+742,Miami,Houston,2023-12-01,2023-12-06,Delivered,207.72
+743,Chicago,San Francisco,2023-01-17,2023-01-21,In Transit,144.08
+744,Houston,Boston,2023-08-26,2023-09-01,Delivered,298.63
+745,Miami,Houston,2023-07-18,2023-07-21,Delivered,293.27
+746,Miami,Dallas,2023-01-15,2023-01-22,In Transit,196.14
+747,Houston,Chicago,2023-01-03,2023-01-09,In Transit,149.69
+748,Houston,Boston,2023-04-08,2023-04-12,Delayed,118.33
+749,Chicago,Boston,2023-09-06,2023-09-09,Delivered,258.35
+750,New York,Boston,2023-12-10,2023-12-12,In Transit,219.73
+751,Houston,Boston,2023-12-23,2023-12-27,Delivered,210.7
+752,Los Angeles,San Francisco,2023-12-02,2023-12-05,Delayed,122.73
+753,New York,Dallas,2023-08-27,2023-09-03,Delivered,175.29
+754,Miami,Houston,2023-01-11,2023-01-13,Delivered,247.19
+755,Houston,San Francisco,2023-02-10,2023-02-16,In Transit,223.91
+756,New York,Houston,2023-02-16,2023-02-23,In Transit,203.44
+757,Los Angeles,San Francisco,2023-04-18,2023-04-21,In Transit,117.33
+758,Chicago,Dallas,2023-12-27,2024-01-03,Delayed,239.04
+759,Miami,Chicago,2023-11-10,2023-11-17,Delivered,271.24
+760,Houston,Houston,2023-02-05,2023-02-09,In Transit,295.8
+761,Los Angeles,Houston,2023-12-15,2023-12-22,Delivered,209.02
+762,Los Angeles,Houston,2023-03-24,2023-03-25,Delivered,269.04
+763,Los Angeles,Boston,2023-08-24,2023-08-29,In Transit,237.73
+764,Chicago,San Francisco,2023-11-14,2023-11-16,Delayed,182.21
+765,Houston,San Francisco,2023-10-25,2023-10-28,Delivered,165.91
+766,New York,Boston,2023-07-28,2023-07-31,In Transit,281.73
+767,Los Angeles,San Francisco,2023-11-20,2023-11-27,Delayed,101.89
+768,Miami,Houston,2023-07-25,2023-07-29,Delayed,216.55
+769,Los Angeles,Chicago,2023-06-28,2023-07-01,In Transit,161.87
+770,Miami,Boston,2023-01-17,2023-01-24,In Transit,151.2
+771,Chicago,Houston,2023-03-30,2023-04-06,Delayed,254.78
+772,Los Angeles,Houston,2023-04-22,2023-04-27,Delivered,214.69
+773,Miami,Boston,2023-09-06,2023-09-09,Delayed,184.18
+774,Houston,Dallas,2023-01-07,2023-01-10,In Transit,253.74
+775,Chicago,Dallas,2023-11-11,2023-11-15,In Transit,142.24
+776,Houston,Boston,2023-02-10,2023-02-11,Delivered,189.17
+777,Chicago,Boston,2023-04-14,2023-04-20,In Transit,291.9
+778,Los Angeles,Houston,2023-10-14,2023-10-16,In Transit,187.35
+779,Chicago,Chicago,2023-01-29,2023-02-04,In Transit,117.4
+780,Miami,Boston,2023-09-15,2023-09-16,In Transit,154.11
+781,Miami,San Francisco,2023-09-21,2023-09-24,Delivered,108.68
+782,Chicago,San Francisco,2023-01-08,2023-01-15,In Transit,294.43
+783,New York,Boston,2023-04-23,2023-04-26,In Transit,153.32
+784,Chicago,Dallas,2023-07-28,2023-08-02,In Transit,199.18
+785,Los Angeles,Chicago,2023-10-29,2023-10-30,Delayed,141.63
+786,New York,Boston,2023-04-26,2023-04-28,Delayed,102.58
+787,New York,Boston,2023-02-13,2023-02-15,Delayed,257.19
+788,Los Angeles,Dallas,2023-11-02,2023-11-05,Delayed,137.34
+789,Houston,Dallas,2023-09-04,2023-09-10,Delayed,118.54
+790,Houston,Boston,2023-07-19,2023-07-21,Delivered,243.76
+791,Chicago,Dallas,2023-10-24,2023-10-30,Delivered,158.77
+792,Houston,Houston,2023-02-04,2023-02-07,Delayed,274.55
+793,Chicago,Boston,2023-02-15,2023-02-16,Delivered,127.93
+794,Houston,Houston,2023-08-13,2023-08-17,Delayed,219.62
+795,Chicago,Houston,2023-07-08,2023-07-09,Delayed,276.36
+796,Los Angeles,Houston,2023-12-27,2024-01-03,In Transit,104.72
+797,Los Angeles,Dallas,2023-09-20,2023-09-27,Delivered,147.19
+798,Houston,Houston,2023-07-30,2023-08-06,Delayed,201.38
+799,Houston,Dallas,2023-01-01,2023-01-08,Delayed,269.65
+800,Miami,San Francisco,2023-11-02,2023-11-06,In Transit,217.61
+801,Chicago,Dallas,2023-12-28,2024-01-01,In Transit,288.87
+802,Los Angeles,Dallas,2023-05-07,2023-05-11,Delivered,171.16
+803,New York,Houston,2023-07-15,2023-07-22,In Transit,144.8
+804,New York,Chicago,2023-11-06,2023-11-12,In Transit,247.14
+805,Miami,Boston,2023-06-02,2023-06-03,Delayed,128.46
+806,Chicago,San Francisco,2023-09-07,2023-09-10,Delivered,130.69
+807,Chicago,San Francisco,2023-07-29,2023-08-03,Delayed,140.09
+808,Chicago,San Francisco,2023-01-18,2023-01-19,Delivered,249.1
+809,Houston,Boston,2023-12-16,2023-12-18,Delayed,167.29
+810,New York,Boston,2023-03-17,2023-03-24,Delayed,291.33
+811,New York,Houston,2023-02-09,2023-02-10,Delivered,194.34
+812,New York,San Francisco,2023-03-30,2023-04-05,Delivered,265.37
+813,New York,Boston,2023-10-18,2023-10-24,Delayed,197.9
+814,Los Angeles,Dallas,2023-02-28,2023-03-04,Delayed,237.98
+815,Chicago,San Francisco,2023-05-20,2023-05-26,Delivered,174.27
+816,Miami,Dallas,2023-09-02,2023-09-09,In Transit,125.1
+817,Miami,Chicago,2023-07-20,2023-07-21,Delayed,207.37
+818,Miami,Boston,2023-08-06,2023-08-13,Delayed,103.26
+819,Miami,Boston,2023-08-03,2023-08-07,Delivered,242.65
+820,Los Angeles,Houston,2023-10-12,2023-10-15,Delayed,286.37
+821,Miami,Dallas,2023-02-23,2023-02-25,In Transit,200.23
+822,Los Angeles,San Francisco,2023-01-22,2023-01-27,In Transit,182.39
+823,New York,Dallas,2023-01-20,2023-01-23,Delivered,222.27
+824,New York,Chicago,2023-02-16,2023-02-19,Delivered,205.83
+825,Chicago,San Francisco,2023-09-30,2023-10-07,Delivered,284.88
+826,New York,Boston,2023-01-29,2023-02-03,In Transit,121.36
+827,Chicago,Chicago,2023-12-23,2023-12-24,Delayed,210.79
+828,Chicago,Chicago,2023-07-20,2023-07-22,In Transit,127.59
+829,Houston,San Francisco,2023-10-03,2023-10-10,Delayed,140.35
+830,Los Angeles,Boston,2023-03-02,2023-03-03,Delayed,242.23
+831,New York,Chicago,2023-03-06,2023-03-12,In Transit,127.1
+832,Miami,San Francisco,2023-04-26,2023-04-27,Delayed,144.37
+833,Miami,San Francisco,2023-04-28,2023-05-05,Delivered,242.79
+834,Houston,Dallas,2023-01-31,2023-02-01,In Transit,213.77
+835,Miami,Chicago,2023-03-25,2023-03-26,In Transit,223.38
+836,Houston,Boston,2023-03-25,2023-03-31,Delivered,270.4
+837,New York,Chicago,2023-02-22,2023-02-26,Delayed,108.45
+838,Chicago,San Francisco,2023-08-09,2023-08-14,Delivered,199.0
+839,Houston,Boston,2023-04-03,2023-04-10,Delivered,201.95
+840,New York,Dallas,2023-08-13,2023-08-16,Delivered,216.48
+841,Chicago,Boston,2023-05-23,2023-05-28,In Transit,148.41
+842,Houston,Dallas,2023-04-09,2023-04-13,In Transit,152.44
+843,Miami,Chicago,2023-03-31,2023-04-07,Delivered,267.54
+844,New York,Boston,2023-09-08,2023-09-09,Delayed,290.45
+845,Houston,Boston,2023-04-27,2023-05-01,Delivered,209.51
+846,New York,Boston,2023-08-29,2023-08-31,Delayed,267.94
+847,Houston,Houston,2023-02-04,2023-02-06,In Transit,148.07
+848,Los Angeles,Boston,2023-12-29,2024-01-03,Delivered,242.13
+849,Chicago,Houston,2023-01-15,2023-01-18,Delivered,198.38
+850,Houston,Houston,2023-10-08,2023-10-09,Delayed,157.42
+851,Houston,Chicago,2023-06-20,2023-06-21,Delivered,116.85
+852,Los Angeles,San Francisco,2023-02-06,2023-02-12,Delivered,185.91
+853,Houston,Houston,2023-01-11,2023-01-16,Delayed,133.66
+854,New York,Chicago,2023-02-11,2023-02-15,Delivered,221.06
+855,Miami,San Francisco,2023-03-19,2023-03-25,Delayed,251.55
+856,Miami,Boston,2023-10-09,2023-10-15,Delayed,250.38
+857,New York,Chicago,2023-02-14,2023-02-18,Delayed,229.42
+858,Houston,Boston,2023-06-01,2023-06-08,Delivered,251.85
+859,Houston,Dallas,2023-08-04,2023-08-07,Delayed,208.04
+860,Los Angeles,Houston,2023-01-01,2023-01-05,Delayed,239.27
+861,Los Angeles,Houston,2023-06-12,2023-06-15,In Transit,274.62
+862,Los Angeles,Houston,2023-12-07,2023-12-13,Delayed,294.03
+863,Miami,Chicago,2023-08-01,2023-08-04,Delayed,222.9
+864,Chicago,Dallas,2023-09-05,2023-09-10,Delayed,160.09
+865,Chicago,Chicago,2023-06-18,2023-06-23,Delivered,151.23
+866,Houston,Dallas,2023-08-15,2023-08-22,Delayed,153.29
+867,Houston,Houston,2023-04-08,2023-04-11,In Transit,242.02
+868,Miami,Houston,2023-12-24,2023-12-27,Delivered,247.96
+869,Houston,Houston,2023-03-11,2023-03-16,In Transit,263.28
+870,Chicago,Dallas,2023-01-01,2023-01-08,Delayed,250.35
+871,Chicago,Dallas,2023-07-10,2023-07-13,In Transit,190.92
+872,Los Angeles,Chicago,2023-06-29,2023-07-03,Delivered,236.93
+873,Miami,Houston,2023-08-29,2023-09-05,Delayed,156.12
+874,Chicago,Chicago,2023-04-25,2023-04-28,In Transit,196.96
+875,Los Angeles,Dallas,2023-11-16,2023-11-20,Delivered,275.23
+876,Houston,San Francisco,2023-05-26,2023-05-29,Delayed,156.49
+877,Houston,Boston,2023-06-06,2023-06-07,Delivered,141.87
+878,New York,Chicago,2023-04-27,2023-04-29,Delayed,258.99
+879,New York,San Francisco,2023-10-10,2023-10-14,Delayed,119.6
+880,New York,San Francisco,2023-10-24,2023-10-29,In Transit,148.26
+881,Miami,San Francisco,2023-06-07,2023-06-08,Delivered,291.13
+882,Miami,San Francisco,2023-05-28,2023-06-03,In Transit,136.16
+883,Miami,Boston,2023-06-18,2023-06-21,Delivered,135.12
+884,Miami,Houston,2023-05-24,2023-05-25,In Transit,257.41
+885,New York,Chicago,2023-09-06,2023-09-07,Delivered,125.54
+886,New York,San Francisco,2023-09-22,2023-09-25,Delivered,264.24
+887,Chicago,Houston,2023-01-28,2023-02-04,In Transit,211.22
+888,New York,Boston,2023-03-20,2023-03-25,Delivered,261.03
+889,Houston,Dallas,2023-06-24,2023-06-29,Delivered,108.88
+890,Houston,Houston,2023-11-15,2023-11-20,Delayed,195.57
+891,Los Angeles,Houston,2023-10-10,2023-10-17,In Transit,182.24
+892,Chicago,Chicago,2023-04-07,2023-04-11,Delivered,148.99
+893,Los Angeles,Dallas,2023-09-13,2023-09-14,In Transit,161.01
+894,Chicago,Houston,2023-01-09,2023-01-15,In Transit,261.53
+895,Los Angeles,Boston,2023-09-15,2023-09-16,Delivered,177.65
+896,Los Angeles,Chicago,2023-02-22,2023-02-26,Delayed,199.23
+897,New York,Houston,2023-12-18,2023-12-21,In Transit,142.73
+898,New York,Dallas,2023-08-29,2023-09-05,In Transit,204.58
+899,Miami,Boston,2023-02-22,2023-03-01,Delayed,233.8
+900,Houston,Boston,2023-03-18,2023-03-23,Delivered,213.96
+901,Los Angeles,Boston,2023-08-30,2023-09-04,Delayed,160.79
+902,Los Angeles,Boston,2023-02-19,2023-02-21,Delivered,194.46
+903,Chicago,San Francisco,2023-01-30,2023-02-05,In Transit,219.03
+904,New York,San Francisco,2023-02-13,2023-02-20,Delivered,134.34
+905,Chicago,Houston,2023-05-20,2023-05-21,Delayed,221.32
+906,Miami,Dallas,2023-10-27,2023-11-02,In Transit,236.54
+907,New York,Chicago,2023-10-13,2023-10-20,Delivered,208.89
+908,Houston,Dallas,2023-03-06,2023-03-09,Delayed,290.7
+909,New York,Boston,2023-05-08,2023-05-13,Delivered,244.91
+910,Miami,Houston,2023-03-27,2023-03-30,Delivered,289.42
+911,Houston,Dallas,2023-11-04,2023-11-06,Delivered,251.23
+912,Chicago,Dallas,2023-11-18,2023-11-19,Delayed,144.02
+913,Miami,Houston,2023-12-07,2023-12-09,Delayed,105.28
+914,Los Angeles,Chicago,2023-09-22,2023-09-24,Delivered,188.68
+915,Los Angeles,San Francisco,2023-10-29,2023-11-02,Delayed,237.54
+916,New York,Boston,2023-01-23,2023-01-27,Delivered,206.42
+917,Miami,Houston,2023-08-28,2023-08-29,In Transit,189.95
+918,New York,Dallas,2023-11-13,2023-11-17,Delivered,188.0
+919,Chicago,San Francisco,2023-01-29,2023-02-04,In Transit,251.97
+920,Los Angeles,Chicago,2023-06-26,2023-06-27,Delivered,261.47
+921,Houston,Dallas,2023-08-28,2023-09-04,In Transit,107.99
+922,Houston,Chicago,2023-12-24,2023-12-26,In Transit,162.99
+923,New York,Dallas,2023-02-12,2023-02-14,In Transit,268.34
+924,New York,Dallas,2023-03-25,2023-03-31,Delivered,239.32
+925,Chicago,Chicago,2023-06-10,2023-06-11,Delayed,238.82
+926,Chicago,Dallas,2023-12-20,2023-12-21,Delayed,254.51
+927,New York,Chicago,2023-12-22,2023-12-29,Delivered,230.01
+928,New York,Dallas,2023-12-06,2023-12-10,In Transit,266.39
+929,Los Angeles,Houston,2023-10-31,2023-11-01,Delayed,170.21
+930,Houston,Houston,2023-09-25,2023-10-02,Delivered,251.32
+931,New York,Boston,2023-03-02,2023-03-03,Delivered,264.83
+932,New York,San Francisco,2023-04-26,2023-04-27,Delivered,107.74
+933,New York,San Francisco,2023-10-22,2023-10-28,Delayed,269.95
+934,Houston,Boston,2023-12-04,2023-12-10,Delayed,104.76
+935,Chicago,Dallas,2023-08-17,2023-08-24,Delayed,202.52
+936,Los Angeles,Dallas,2023-03-25,2023-03-28,Delivered,236.58
+937,Houston,San Francisco,2023-10-15,2023-10-21,Delivered,158.82
+938,Miami,Dallas,2023-12-13,2023-12-19,In Transit,216.5
+939,Chicago,Chicago,2023-07-04,2023-07-11,In Transit,145.66
+940,New York,San Francisco,2023-02-01,2023-02-05,In Transit,299.57
+941,Houston,Dallas,2023-04-14,2023-04-16,Delivered,122.22
+942,New York,Boston,2023-02-26,2023-03-05,Delayed,119.94
+943,Chicago,Boston,2023-07-12,2023-07-14,In Transit,222.67
+944,New York,Chicago,2023-05-15,2023-05-18,Delayed,268.25
+945,Houston,San Francisco,2023-11-30,2023-12-06,Delayed,209.06
+946,Houston,Houston,2023-11-07,2023-11-10,Delivered,219.61
+947,Miami,San Francisco,2023-02-21,2023-02-24,Delayed,290.68
+948,New York,Houston,2023-08-12,2023-08-19,Delivered,147.59
+949,Miami,Boston,2023-01-27,2023-01-30,Delivered,167.31
+950,New York,Houston,2023-12-26,2023-12-29,In Transit,245.76
+951,Chicago,Houston,2023-08-26,2023-08-28,In Transit,227.07
+952,New York,Houston,2023-12-13,2023-12-14,Delivered,227.17
+953,New York,San Francisco,2023-12-07,2023-12-10,Delivered,175.86
+954,Houston,San Francisco,2023-07-17,2023-07-20,In Transit,207.1
+955,Houston,San Francisco,2023-12-31,2024-01-07,In Transit,240.95
+956,New York,Dallas,2023-12-09,2023-12-10,Delivered,279.39
+957,Houston,Chicago,2023-08-20,2023-08-26,Delayed,115.74
+958,Los Angeles,Chicago,2023-06-28,2023-07-03,Delayed,174.44
+959,Miami,Boston,2023-11-21,2023-11-22,In Transit,142.83
+960,New York,Boston,2023-06-29,2023-07-05,In Transit,230.8
+961,Chicago,Houston,2023-06-05,2023-06-08,Delivered,164.14
+962,Los Angeles,Boston,2023-10-03,2023-10-05,In Transit,281.58
+963,New York,Chicago,2023-07-11,2023-07-12,Delayed,270.2
+964,Houston,Dallas,2023-10-25,2023-10-31,In Transit,113.0
+965,New York,Houston,2023-01-09,2023-01-13,In Transit,221.27
+966,Chicago,Boston,2023-07-11,2023-07-16,In Transit,213.23
+967,Miami,Chicago,2023-10-08,2023-10-10,In Transit,226.38
+968,Chicago,Chicago,2023-09-14,2023-09-15,In Transit,124.37
+969,Miami,Boston,2023-06-08,2023-06-15,Delivered,193.79
+970,Miami,San Francisco,2023-07-01,2023-07-05,Delivered,128.54
+971,Houston,San Francisco,2023-02-21,2023-02-25,Delivered,101.53
+972,Houston,Chicago,2023-02-25,2023-03-03,In Transit,168.72
+973,New York,Dallas,2023-06-17,2023-06-22,Delivered,128.97
+974,Chicago,Boston,2023-10-17,2023-10-21,Delivered,179.46
+975,Chicago,Boston,2023-06-17,2023-06-20,In Transit,135.56
+976,Houston,Chicago,2023-07-14,2023-07-16,Delivered,181.75
+977,Houston,Boston,2023-12-16,2023-12-20,Delivered,191.75
+978,New York,Dallas,2023-01-01,2023-01-03,Delayed,122.15
+979,New York,San Francisco,2023-01-31,2023-02-03,Delayed,204.43
+980,Los Angeles,San Francisco,2023-09-09,2023-09-14,In Transit,215.8
+981,New York,Boston,2023-08-24,2023-08-31,Delayed,225.0
+982,Chicago,Chicago,2023-09-09,2023-09-10,Delivered,237.06
+983,New York,Dallas,2023-03-05,2023-03-10,Delivered,297.74
+984,Los Angeles,Houston,2023-04-30,2023-05-05,Delivered,268.2
+985,Miami,San Francisco,2023-05-12,2023-05-15,In Transit,203.04
+986,Miami,Chicago,2023-02-26,2023-03-03,Delivered,169.61
+987,New York,Chicago,2023-02-26,2023-03-02,Delivered,256.42
+988,Chicago,Chicago,2023-04-27,2023-04-30,Delayed,158.21
+989,New York,San Francisco,2023-06-24,2023-06-30,Delayed,123.97
+990,Los Angeles,Boston,2023-12-06,2023-12-13,In Transit,190.28
+991,Los Angeles,Houston,2023-08-21,2023-08-25,In Transit,255.05
+992,New York,Chicago,2023-09-26,2023-09-27,In Transit,138.84
+993,Chicago,Chicago,2023-08-24,2023-08-25,In Transit,261.93
+994,Houston,Chicago,2023-02-15,2023-02-21,Delivered,188.64
+995,Los Angeles,Houston,2023-06-28,2023-07-05,In Transit,160.65
+996,New York,Chicago,2023-02-11,2023-02-17,Delivered,191.19
+997,New York,Chicago,2023-11-19,2023-11-21,Delayed,129.03
+998,Houston,Dallas,2023-05-22,2023-05-24,Delayed,114.97
+999,New York,Dallas,2023-01-24,2023-01-29,Delivered,237.85
+1000,Houston,San Francisco,2023-11-09,2023-11-16,Delayed,180.02
