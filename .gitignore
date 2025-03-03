@@ -169,3 +169,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#Carpetas de datos
+Summaries/
+data/
+data_streaming/
+iot_data/
+output/
